@@ -8,6 +8,8 @@ Selon les riverains et les politiques locaux, l’ambiance dans les rues est ron
 
 Dans les rues du quartier se trouvent des distributeurs de seringues mis en place par des associations de prévention. Les automates d’échange de seringues distribuent, contre un jeton, des trousses de prévention contenant deux seringues, des flacons d’eau stérile et des tampons alcoolisés pour réduire les risques de contamination. Ces distributeurs permettent de prévenir une contamination ou une surinfection qui peut survenir lorsqu’un usager utilise une seringue qui a déjà servi.  On compte aujourd'hui trente-six distributeurs dans le quartier. Les associations doivent recharger les automates chaque jour, signe que les usagers sont effectivement plus sensibles à l’importance de changer de seringues à chaque injection (jusqu’à 10 par jour). En outre, le nombre de kits de seringues distribués augmente de 6 à 7% chaque année. Ainsi, le nombre de cas de SIDA par an chez les usagers de drogues injectables en France de 1990 à 2009 a diminué considérablement. Cependant, les associations retrouvent parfois des seringues contenant plusieurs produits, preuve qu’elles ont été partagées ou utilisées plusieurs fois.  
 
+<div style="text-align:center"><img src ="http://i.f1g.fr/media/ext/805x453/www.lefigaro.fr/medias/2013/10/12/PHOfec37278-3353-11e3-b845-7f65b7ceff53-805x453.jpg" /></div>
+
 
 ### L'insalubrité et l'insécurité gênent les riverains
 
