@@ -8,13 +8,33 @@
 
 - LESCURIEUX Romain (2017). Des bancs anti-SDF à la station Stalingrad ? “Surtout anti-toxicos” répond un agent de la RATP. 20 minutes, en ligne. URL : [http://www.20minutes.fr/paris/2033959-20170320-paris-bancs-anti-sdf-station-stalingrad-surtout-anti-toxicos-repond-agent-ratp](http://www.20minutes.fr/paris/2033959-20170320-paris-bancs-anti-sdf-station-stalingrad-surtout-anti-toxicos-repond-agent-ratp)
 
-- Auteur non spécifié. Municipales à Paris : NKM veut métamorphoser les gares de l’est et du nord, Le Point, en ligne. URL : [http://www.lepoint.fr/politique/municipales-a-paris-nkm-veut-metamorphoser-les-gares-de-l-est-et-du-nord-mun75000-24-02-2014-1795279_20.php](http://www.lepoint.fr/politique/municipales-a-paris-nkm-veut-metamorphoser-les-gares-de-l-est-et-du-nord-mun75000-24-02-2014-1795279_20.php)
+- Auteur non spécifié. Municipales à Paris : NKM veut métamorphoser les gares de l’est et du nord, Le Point, en ligne. URL : [http://www.lepoint.fr/politique/municipales-a-paris-nkm-veut-metamorphoser-les-gares-de-l-est-et-du-nord-mun75000-24-02-2014-1795279_20.php](http://www.lepoint.fr/politique/municipales-a-paris-nkm-veut-metamorphoser-les-gares-de-l-est-et-du-nord-mun75000-24-02-2014-1795279_20.php) [Consulté le 22 mars 2017] 
 
 - Dossier sur les infections virales liées à l’usage de drogues (2011). Santé publique France , en ligne. URL : [http://invs.santepubliquefrance.fr/Dossiers-thematiques/Populations-et-sante/Usagers-de-drogues/Infections-virales-liees-a-l-usage-de-drogues](http://invs.santepubliquefrance.fr/Dossiers-thematiques/Populations-et-sante/Usagers-de-drogues/Infections-virales-liees-a-l-usage-de-drogues) [consulté le 22 février 2017]
+
+- KOVACS Stéphane (2016). La salle de shoot ne convainc pas les riverains. Le Figaro, en ligne. URL: [http://www.lemonde.fr/addictions/article/2016/10/11/le-long-periple-du-projet-de-salle-d-injection-a-paris-avant-son-ouverture_5011514_1655173.html](http://www.lemonde.fr/addictions/article/2016/10/11/le-long-periple-du-projet-de-salle-d-injection-a-paris-avant-son-ouverture_5011514_1655173.html) [Consulté le 2 mai 2017] 
+
+## Périodique
+
+- Jauffret-Roustide Marie, « Un regard sociologique sur les drogues : décrire la complexité des usages et rendre compte des contextes sociaux », La revue lacanienne, 3/2009 (n° 5), p. 109-118.
+
+- “Sken’ city, village de la drogue à gare du Nord”, Street Press, 16 mai 2016, par Robin D’Angelo et Emmanuel Bossanne 
+
+- “Contribution de la science au débat sur les salles d’injection”, Libération, 1 juin 2011, p.16, par Françoise Barré Sinoussi, Prix Nobel de médecine , Marie Jauffret-Roustide, Sociologue, Inserm U988 , Laurent Michel, Médecin psychiatre, Inserm U669 , Perrine Roux, Pharmacienne, Inserm U992 ,Patrizia Carrieri, Epidémiologiste Inserm U992 et Piervincenzo Piazza, Neurobiologiste Inserm U862
 
 ## Rapports techniques
 
 - Dossier sur les infections virales liées à l’usage de drogues (2011). Santé publique France , en ligne. URL : [http://invs.santepubliquefrance.fr/Dossiers-thematiques/Populations-et-sante/Usagers-de-drogues/Infections-virales-liees-a-l-usage-de-drogues ](http://invs.santepubliquefrance.fr/Dossiers-thematiques/Populations-et-sante/Usagers-de-drogues/Infections-virales-liees-a-l-usage-de-drogues) [consulté le 22 février 2017]
+
+- Rapport sur la Réduction des risques infectieux chez les usagers de drogue, INSERM, 2010 
+[file:///C:/Users/emore/AppData/Local/Temp/reduction_risques_ver_final-1.pdf](file:///C:/Users/emore/AppData/Local/Temp/reduction_risques_ver_final-1.pdf)   [consulté le 22 février 2017]
+
+- Salles de consommation à moindre risque : les preuves et la pratique, Eberhard Schatz & Marie Nougier, Rapport réalisé pour le compte du Consortium International sur les Politiques des Drogues, Juin 2012,   [https://reductiondesrisques.be/wp/wp-content/uploads/2013/03/idpc-briefing-paper-drug-consumption-rooms-fr-Eberhard-Schatz-Marie-Nougier.pdf](https://reductiondesrisques.be/wp/wp-content/uploads/2013/03/idpc-briefing-paper-drug-consumption-rooms-fr-Eberhard-Schatz-Marie-Nougier.pdf) [consulté le 24 avril 2017]
+
+- Rapport de l’INSERM concernant les traitements de substitution (2010) [http://www.ipubli.inserm.fr/bitstream/handle/10608/87/?sequence=15](http://www.ipubli.inserm.fr/bitstream/handle/10608/87/?sequence=15)   [consulté le 12 avril]
+
+- Rapport d’une convention avec l'association Élus, Santé Publique et Territoires (ESPT) pour l'attribution d'une subvention afin de mettre en place une démarche de réflexion, d'expertise et de qualification sur les salles de consommation à moindres risques (2009)
+[http://a06.apps.paris.fr/a06/jsp/site/Portal.jsp?page=ods-solr.display_document&id_document=22770&items_per_page=20&sort_name=&sort_order=&terms=&query=&fq=seance_string%3ADECEMBRE%202009](http://a06.apps.paris.fr/a06/jsp/site/Portal.jsp?page=ods-solr.display_document&id_document=22770&items_per_page=20&sort_name=&sort_order=&terms=&query=&fq=seance_string%3ADECEMBRE%202009) [consulté le 6 avril 2017]
 
 ## Programmes électoraux
 
