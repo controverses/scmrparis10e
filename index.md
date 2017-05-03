@@ -7,6 +7,6 @@ Une Salle de Consommation à Moindre Risque, aussi appelée Centre d'Injection S
 
 
 
-![SCMR](http://www.drogues.gouv.fr/sites/drogues.gouv.fr/files/thumbnails/image/scmr_table_mf_20161110_800px.jpg)
+<p align= "center">![SCMR](http://www.drogues.gouv.fr/sites/drogues.gouv.fr/files/thumbnails/image/scmr_table_mf_20161110_800px.jpg)</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eSa6CckQ7BQ" frameborder="0" allowfullscreen></iframe>
