@@ -32,7 +32,7 @@
 
 - Page Facebook Non à la salle de shoot quartier Gare du Nord/Rue Ambroise Paré, en ligne. URL : [https://www.facebook.com/nonalasalledeshootrueambroisepare/photos/a.207190776283299.1073741829.198951373773906/433587216976986/?type=3&theater](https://www.facebook.com/nonalasalledeshootrueambroisepare/photos/a.207190776283299.1073741829.198951373773906/433587216976986/?type=3&theater) [consulté le 8 avril 2017]
 
-- Ministère des Affaires Sociales et de la Santé [http://social-sante.gouv.fr/](http://social-sante.gouv.fr/) [consulté le 9 mars]
+- Ministère des Affaires Sociales et de la Santé, en ligne. URL : [http://social-sante.gouv.fr/](http://social-sante.gouv.fr/) [consulté le 9 mars]
 
 
 ## Vidéos
