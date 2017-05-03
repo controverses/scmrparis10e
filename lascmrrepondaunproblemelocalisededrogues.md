@@ -11,6 +11,23 @@ Dans les rues du quartier se trouvent des distributeurs de seringues mis en plac
 
 ### L'insalubrité et l'insécurité gênent les riverains
 
+> « Les habitants sont témoins d’une scène à ciel ouvert. Le bruit, l’agressivité voire les agressions, ainsi qu’une présence permanente des toxicomanes créent un climat pesant ». 
+Rémi Féraud, maire du Xe arrondissement
+
+> « Ras-le-bol face à ce cloaque »  
+Pierre Cologner, président de l’association Vivre Gares du Nord et Est 
+
+Les rues de cette zone présentent également un vrai problème de propreté. Ainsi, Action Barbès explique que « le secteur n’est pas facile à gérer puisque s’ajoutent aux problèmes de propreté habituels, les déchets (emballages, seringues, etc.) rejetés sur la voie publique par les usagers de drogues, nombreux dans le quartier ». Didier Vincent, membre du Conseil d’administration d’Action Barbès et trésorier déclare que “les sanisettes de la rue Ambroise Paré sont les plus sales de Paris”. En effet, de nombreux toxicomanes viennent s’y piquer et y laissent leurs déchets (seringues, flacons…). 
+
+De l’alcool est consommé par les toxicomanes pour améliorer l’effet des drogues. La paranoïa et l’agressivité provoquées par les substances psychotropes influencent les rapports des drogués entre eux et avec les riverains. Ainsi, le 28 juillet 2012, un toxicomane est assassiné en pleine rue devant une terrasse de café bondée. De nombreux vols et cambriolages poussent aussi les magasins à fermer. C’est pourquoi le Monoprix du quartier, en haut du boulevard Magenta, ferme désormais à 22 heures au lieu de minuit  pour repousser ces clients indésirables. Plus généralement, il y a une réglementation particulière sur la consommation et la vente d’alcool dans le quartier. Des arrêtés interdisent la consommation et la vente d’alcool la nuit rue du Faubourg Poissonière, dans une grande partie du 10e arrondissement, boulevard de la Chapelle, boulevard de la Villette et le long du canal Saint-Martin jusqu’au bassin de la Villette pour éviter les nuisances liées à la consommation excessive d’alcool dans les rues, souvent corrélées à la consommation de drogues. 
+
+
+ 
+
+Rémi Féraud, maire du Xe arrondissement, déclare ainsi que les riverains « sont témoins d’une scène à ciel ouvert. Le bruit, l’agressivité voire les agressions, ainsi qu’une présence permanente des toxicomanes créent un climat pesant . Pierre Cologner, président de l’association Vivre Gares du Nord et Est, exprimait un « ras-le-bol face à ce cloaque »  en 2013. Il développe en ces termes : « Notre quartier cumule les nuisances, entre la drogue, la mendicité, et la présence de marginaux alcoolisés. » . 
+
+
+
 ## Appropriation du projet d’expérimentation des salles d’injections à l’échelle locale
 
 ### Les élections municipales de 2014 cristallisent le débat politique autour de la SCMR
