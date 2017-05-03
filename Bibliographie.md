@@ -31,7 +31,7 @@
 
 - Salles de consommation à moindre risque : les preuves et la pratique, Eberhard Schatz & Marie Nougier, Rapport réalisé pour le compte du Consortium International sur les Politiques des Drogues, Juin 2012,   [https://reductiondesrisques.be/wp/wp-content/uploads/2013/03/idpc-briefing-paper-drug-consumption-rooms-fr-Eberhard-Schatz-Marie-Nougier.pdf](https://reductiondesrisques.be/wp/wp-content/uploads/2013/03/idpc-briefing-paper-drug-consumption-rooms-fr-Eberhard-Schatz-Marie-Nougier.pdf) [consulté le 24 avril 2017]
 
-- Rapport de l’INSERM concernant les traitements de substitution (2010) [http://www.ipubli.inserm.fr/bitstream/handle/10608/87/?sequence=15](http://www.ipubli.inserm.fr/bitstream/handle/10608/87/?sequence=15)  [consulté le 12 avril]
+- Rapport de l’INSERM concernant les traitements de substitution (2010) [file:///C:/Users/emore/AppData/Local/Temp/reduction_risques_ver_final-2.pdf](file:///C:/Users/emore/AppData/Local/Temp/reduction_risques_ver_final-2.pdf) [consulté le 12 avril]
 
 - Rapport d’une convention avec l'association Élus, Santé Publique et Territoires (ESPT) pour l'attribution d'une subvention afin de mettre en place une démarche de réflexion, d'expertise et de qualification sur les salles de consommation à moindres risques (2009)
 [http://a06.apps.paris.fr/a06/jsp/site/Portal.jsp?page=ods-solr.display_document&id_document=22770&items_per_page=20&sort_name=&sort_order=&terms=&query=&fq=seance_string%3ADECEMBRE%202009](http://a06.apps.paris.fr/a06/jsp/site/Portal.jsp?page=ods-solr.display_document&id_document=22770&items_per_page=20&sort_name=&sort_order=&terms=&query=&fq=seance_string%3ADECEMBRE%202009) [consulté le 6 avril 2017]
@@ -69,11 +69,14 @@
 - Auto-support des usagers de drogue (ASUD), en ligne. URL :
 [www.asud.org](www.asud.org)  [consulté le 21 mars 2017]
 
-- Ministère des Affaires Sociales et de la Santé
+- Ministère des Affaires Sociales et de la Santé, en ligne. URL :
 [http://social-sante.gouv.fr/](http://social-sante.gouv.fr/ ) [consulté le 9 mars]
 
-- Santé publique
+- Santé publique, en ligne. URL :
 [http://invs.santepubliquefrance.fr](http://invs.santepubliquefrance.fr) [consulté le 22 février 2017]
+
+- Legifrance. textes et articles de lois, en ligne. URL :
+[https://www.legifrance.gouv.fr/](https://www.legifrance.gouv.fr/) [consulté le 13 février 2017]
 
 
 ## Vidéos
