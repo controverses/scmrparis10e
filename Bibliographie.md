@@ -1,6 +1,5 @@
 ## Articles de presse
 
-<p align= "justify">
 - Auteur non spécifié (2016). Le long périple du projet de salle d'injection à Paris avant son ouverture. Le Monde,  en ligne. URL : [http://www.lemonde.fr/addictions/article/2016/10/11/le-long-periple-du-projet-de-salle-d-injection-a-paris-avant-son-ouverture_5011514_1655173.html](http://www.lemonde.fr/addictions/article/2016/10/11/le-long-periple-du-projet-de-salle-d-injection-a-paris-avant-son-ouverture_5011514_1655173.html) [Consulté le 25 février 2017]
 
 - SAGE Jérôme (2013). La carte des points chauds de la toxicomanie à Paris. Le Figaro, en ligne. URL : [http://www.lefigaro.fr/actualite-france/2013/10/12/01016-20131012ARTFIG00344-la-carte-des-points-chauds-de-la-toxicomanie-a-paris.php](http://www.lefigaro.fr/actualite-france/2013/10/12/01016-20131012ARTFIG00344-la-carte-des-points-chauds-de-la-toxicomanie-a-paris.php) [Consulté le 20 février 2017]
@@ -81,4 +80,4 @@
 
 
 ## Vidéos
-- Paris 2014 : Le débat, animé par Laurence Ferarri et Marc-Olivier Fogiel, diffusé sur iTélé, 26/03/2014, 18h, 01h00, disponible sur [http://www.dailymotion.com/video/x1k9up5_debat-entre-nkm-et-anne-hidalgo-le-26-03-2014_news](http://www.dailymotion.com/video/x1k9up5_debat-entre-nkm-et-anne-hidalgo-le-26-03-2014_news) [consulté le 28 mars 2017]</p>
+- Paris 2014 : Le débat, animé par Laurence Ferarri et Marc-Olivier Fogiel, diffusé sur iTélé, 26/03/2014, 18h, 01h00, disponible sur [http://www.dailymotion.com/video/x1k9up5_debat-entre-nkm-et-anne-hidalgo-le-26-03-2014_news](http://www.dailymotion.com/video/x1k9up5_debat-entre-nkm-et-anne-hidalgo-le-26-03-2014_news) [consulté le 28 mars 2017]
