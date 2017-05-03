@@ -2,12 +2,12 @@ La localisation de la SCMR à Paris n’a pas été choisie au hasard. Elle rép
 
 ## Etat des lieux : un quartier rongé par les problèmes de drogue
 
-# Un fort usage de drogues dans le quartier
+### Un fort usage de drogues dans le quartier
 
-# L'insalubrité et l'insécurité gênent les riverains
+### L'insalubrité et l'insécurité gênent les riverains
 
 ## Appropriation du projet d’expérimentation des salles d’injections à l’échelle locale
 
-# Les élections municipales de 2014 cristallisent le débat politique autour de la SCMR
+### Les élections municipales de 2014 cristallisent le débat politique autour de la SCMR
 
-# Les acteurs locaux s'organisent pour faire entendre leurs voix face aux politiques
+### Les acteurs locaux s'organisent pour faire entendre leurs voix face aux politiques
