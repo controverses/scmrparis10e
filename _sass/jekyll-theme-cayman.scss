@@ -2,6 +2,7 @@
 @import "rouge-github";
 @import "variables";
 
+
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
     @content;
@@ -26,11 +27,13 @@
 
 body {
   padding: 0;
-  margin: 0;
+  margin: 0 0px;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  //font-family: Calibri, serif;
   font-size: 16px;
   line-height: 1.5;
   color: $body-text-color;
+  text-align: justify-all;
 }
 
 a {
@@ -125,7 +128,7 @@ a {
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: normal;
-  opacity: 0.7;
+  opacity: 1;
 
   @include large {
     font-size: 1.25rem;
@@ -166,6 +169,7 @@ a {
 
   img {
     max-width: 100%;
+    text-align: center;
   }
 
   h1,
@@ -176,8 +180,11 @@ a {
   h6 {
     margin-top: 2rem;
     margin-bottom: 1rem;
-    font-weight: normal;
-    color: $section-headings-color;
+    font-weight: bold;
+    font-size: 25px;
+    
+    color: rgb(49,113,123);
+    margin : 0;
   }
 
   p {
