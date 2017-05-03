@@ -34,7 +34,7 @@
 
 <p align= "justify">Le Conseil d'Etat recommande au gouvernement de sécuriser le projet des SCMR en l'inscrivant dans un cadre législatif pour éviter qu'elle ne s'oppose à la loi du 31 décembre 1970 contre les stupéfiants.</p> 
 
-<p align= "justify"> ## 17 décembre 2015 : l'expérimentation des SCMR, dans le cadre d'une loi santé, est adoptée par l'Assemblée Nationale </p>
+## 17 décembre 2015 : l'expérimentation des SCMR, dans le cadre d'une loi santé, est adoptée par l'Assemblée Nationale
 
 <p align= "justify">La loi de modernisation du système de santé est adoptée puis promulguée le 26 janvier 2016. Les articles 8 et 9 prévoient la création de SCMR à Paris et à Strasbourg pour une expérimentation de six ans.</p> 
 
