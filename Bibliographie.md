@@ -31,7 +31,7 @@
 
 - Salles de consommation à moindre risque : les preuves et la pratique, Eberhard Schatz & Marie Nougier, Rapport réalisé pour le compte du Consortium International sur les Politiques des Drogues, Juin 2012,   [https://reductiondesrisques.be/wp/wp-content/uploads/2013/03/idpc-briefing-paper-drug-consumption-rooms-fr-Eberhard-Schatz-Marie-Nougier.pdf](https://reductiondesrisques.be/wp/wp-content/uploads/2013/03/idpc-briefing-paper-drug-consumption-rooms-fr-Eberhard-Schatz-Marie-Nougier.pdf) [consulté le 24 avril 2017]
 
-- Rapport de l’INSERM concernant les traitements de substitution (2010) [http://www.ipubli.inserm.fr/bitstream/handle/10608/87/?sequence=15](http://www.ipubli.inserm.fr/bitstream/handle/10608/87/?sequence=15)   [consulté le 12 avril]
+- Rapport de l’INSERM concernant les traitements de substitution (2010) [http://www.ipubli.inserm.fr/bitstream/handle/10608/87/?sequence=15](http://www.ipubli.inserm.fr/bitstream/handle/10608/87/?sequence=15)  [consulté le 12 avril]
 
 - Rapport d’une convention avec l'association Élus, Santé Publique et Territoires (ESPT) pour l'attribution d'une subvention afin de mettre en place une démarche de réflexion, d'expertise et de qualification sur les salles de consommation à moindres risques (2009)
 [http://a06.apps.paris.fr/a06/jsp/site/Portal.jsp?page=ods-solr.display_document&id_document=22770&items_per_page=20&sort_name=&sort_order=&terms=&query=&fq=seance_string%3ADECEMBRE%202009](http://a06.apps.paris.fr/a06/jsp/site/Portal.jsp?page=ods-solr.display_document&id_document=22770&items_per_page=20&sort_name=&sort_order=&terms=&query=&fq=seance_string%3ADECEMBRE%202009) [consulté le 6 avril 2017]
@@ -53,6 +53,27 @@
 - Page Facebook Non à la salle de shoot quartier Gare du Nord/Rue Ambroise Paré, en ligne. URL : [https://www.facebook.com/nonalasalledeshootrueambroisepare/photos/a.207190776283299.1073741829.198951373773906/433587216976986/?type=3&theater](https://www.facebook.com/nonalasalledeshootrueambroisepare/photos/a.207190776283299.1073741829.198951373773906/433587216976986/?type=3&theater) [consulté le 8 avril 2017]
 
 - Ministère des Affaires Sociales et de la Santé, en ligne. URL : [http://social-sante.gouv.fr/](http://social-sante.gouv.fr/) [consulté le 9 mars]
+
+- Association Gaïa Paris, en ligne. URL :
+[https://gaia-paris.fr](https://gaia-paris.fr) [Consulté le 2 mai 2017] 
+
+- Assistance Publique - Hôpitaux de Paris (AP-HP), en ligne. URL :
+[http://www.aphp.fr/](http://www.aphp.fr/) [consulté le 2 mai 2017]
+
+- Agence Régionale de Santé, en ligne. URL :
+[https://www.ars.sante.fr/](https://www.ars.sante.fr/) [consulté le 26 avril 2017]
+
+- Direction Départementale de la Cohésion Sociale de Paris, en ligne. URL :
+[http://www.ddcs.paris.gouv.fr/SITE-DDCS/La-DDCS-de-Paris](http://www.ddcs.paris.gouv.fr/SITE-DDCS/La-DDCS-de-Paris) [consulté le 26 avril 2017]
+
+- Auto-support des usagers de drogue (ASUD), en ligne. URL :
+[www.asud.org](www.asud.org)  [consulté le 21 mars 2017]
+
+- Ministère des Affaires Sociales et de la Santé
+[http://social-sante.gouv.fr/](http://social-sante.gouv.fr/ ) [consulté le 9 mars]
+
+- Santé publique
+[http://invs.santepubliquefrance.fr](http://invs.santepubliquefrance.fr) [consulté le 22 février 2017]
 
 
 ## Vidéos
