@@ -1,1 +1,3 @@
+Afin de mieux cerner la manière dont la presse rend compte de la controverse, il est possible de recenser les articles publiés entre l'annonce du projet et l'ouverture de la SCMR en octobre dernier. À chaque lecture, le sujet de l’article, les personnes et les entités dont il est question, les personnes qui étaient citées ainsi que les dénominations utilisées pour qualifier la SCMR et ses usagers (ou futurs usagers selon la période de parution de l’article) sont relevés. Cela permet de dégager une représentation générale de la controverse donnée par la presse généraliste française. 
+
 <div style="text-align:center"><img src ="scmrparis10e/Capture d’écran 2017-05-03 à 16.54.18.png" /></div>
