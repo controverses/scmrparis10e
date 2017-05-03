@@ -2,14 +2,13 @@
 
 <p align= "justify">À l’origine, la salle de consommation devait se situer près de la gare du Nord, mais un camp de réfugiés a rendu la localisation impossible. La localisation de la salle a donc ensuite été prévue à proximité de l’hôpital Lariboisière. Dans un article de l’association Action Barbès datant du 23 juillet 2013, Rémi Féraud, maire du Xe arrondissement, motive les différents choix d’implantations pour la salle. Ainsi, plusieurs solutions se présentaient pour l’emplacement de la salle de consommation. Dans un premier temps, l’hôpital Lariboisière où un emplacement existait déjà, et donc où un permis de construire n’était pas nécessaire. Aussi, la SNCF a proposé deux emplacements, des locaux rue de Maubeuge, ou le 39 boulevard de la Chapelle.</p>
 
-Image loc
+Image loccalisation à insérer
 
 <p align= "justify">Les locaux proposés rue de Maubeuge par la SNCF étaient cependant très exigus et il n’y avait pas d’espace extérieur disponible. Aussi, c’est l’adresse du 39 boulevard de la Chapelle qui a été retenue au départ, en 2013. La disposition des locaux convenait le mieux d’un côté pratique pour l’installation de la salle de consommation. Cependant, ce choix a fait l’objet de nombreuses contestations. Effectivement, deux écoles se trouvaient à proximité du 39 boulevard de la Chapelle. Les riverains étaient opposés à ce que la SCMR ouvre si proche d’écoles. Des banderoles de manifestations devant le bâtiment du 37 boulevard de la Chapelle furent affichées comme sur la photo ci-dessus par exemple. Les riverains y dénoncent l’installation de la salle de consommation à proximité de cette école.</p>
 
 
-  
-Banderoles de manifestations devant le bâtiment du 37 boulevard de la Chapelle 
-Source : Jacques Demarthon pour l’AFP
+##### Banderoles de manifestations devant le bâtiment du 37 boulevard de la Chapelle 
+##### Source : Jacques Demarthon pour l’AFP
 
 <p align= "justify">De nombreuses manifestations de riverains ont donc eu lieu en 2013 pour s’opposer au choix de l’adresse pour la salle de consommation. Des “appels à la vigilance citoyenne” ont ainsi été lancés, pour manifester contre l’ouverture de la salle au 39 boulevard de la Chapelle. Plus qu’à l’implantation d’une salle de shoot, de nombreux individus se sont opposées au choix de cet emplacement. En outre, pour Rémi Féraud, le 39 boulevard de la Chapelle serait finalement trop difficile d’accès pour les toxicomanes. C’est donc finalement les locaux de l'Hôpital Lariboisière qui seront retenus en 2015.</p>  
 
@@ -24,10 +23,6 @@ Source : Jacques Demarthon pour l’AFP
 <p align= "justify">En 2010 cependant, un clivage politique va ralentir le processus de l’ouverture de la salle de consommation. En effet, la droite au pouvoir est divisée en deux camps. Roselyne Bachelot alors ministre de la santé défendait cependant ce projet. Dans un communiqué de presse du 10 août 2010, elle se montre favorable à l'ouverture de centres de consommation supervisés de drogue. François Fillon, alors premier ministre, se montre défavorable à l’ouverture de la salle, il se prononce contre: “ce n’est ni utile, ni souhaitable (...) La priorité de Matignon est de réduire la consommation de drogue, non de l’accompagner, voire de l’organiser”. Xavier Bertrand, alors secrétaire général de l’UMP se prononce également sur le sujet, en rejoignant l’avis exprimé par matignon. Il se dit ainsi “vraiment opposé” à l’ouverture d’une telle structure. Le Parti Socialiste et les verts se montrent cependant favorables, et saluent cette initiative. La situation ne changera pas, et les salles de consommation ne sont pas envisagées à nouveau avant que la gauche soit au pouvoir en 2012.</p>
  
 <p align= "justify">Ainsi, en octobre 2012, Marisol Touraine alors ministre de la santé déclare la volonté de lancer la salle de consommation à moindre risque dans les plus brefs délais. Les débats sont donc relancés sur le sujet. En février 2013, le premier ministre Jean-Marc Ayrault se prononce également en faveur d’un tel projet, et un plan gouvernemental sur quatre ans de lutte contre les drogues et les conduites addictives est lancé en septembre 2013. La Salle de consommation y est alors évoquée, dans la sous-section “réduire les risques sanitaires et les dommages sociaux”.</p>
-
- 
-Source : Rapport officiel du plan gouvernemental de lutte contre les drogues et les conduites addictive 2013-2017
-URL : http://www.drogues.gouv.fr/sites/drogues.gouv.fr/files/atoms/files/plan_gouvernemental_drogues_2013-2017_df.pdf
 
 <p align= "justify">En octobre 2013 cependant, le Conseil d’Etat freine le calendrier. Il recommande en effet d’inscrire le dispositif des SCMR dans la loi pour le sécuriser juridiquement. La législation n’ayant pas évolué depuis la loi de 1970, la salle de consommation risquerait d’être pénalisé à son ouverture. Ainsi, un projet de loi relatif à la santé est lancé en octobre 2014. Dans son titre premier “prévention avant d’avoir à guérir”, il est indiqué que “les usagers de drogues dures seront mieux accompagnés”. Une des principales dispositions du projet de loi est donc l’article 9, qui évoque les « Expérimentation des centres d'accueil et d'accompagnement à la réduction des risques pour usagers de drogues ». Cette expérimentation est ainsi lancée sur six ans maximum.</p> 
 
