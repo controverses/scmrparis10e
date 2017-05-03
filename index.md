@@ -9,7 +9,7 @@ La SCMR répond ainsi à un double objectif de santé publique mais également d
 ## De quels risques sanitaires parle-t-on ?
 
 Les usagers de drogue injectable sont particulièrement touchés par une mortalité élevée : certaines études montrent que les hommes interpellés pour usage d’héroïne, de cocaïne ou de crack ont 5 fois plus de risque de décéder que les hommes du même âge.
-Cette mortalité est due à l’utilisation de matériel d’injection non stérile et de seringues souillées ayant déjà été utilisées. Cela favorise la transmission de maladies comme le VIH (virus du SIDA) qui touche plus de 8% des usagers de drogue injectable ou encore l’hépatite C, qui est une maladie du foie pouvant entraîner cancers et tumeurs -et donc la mort de l’usager- si elle n’est pas dépistée suffisamment tôt. 
+Cette mortalité est due à l’utilisation de matériel d’injection non stérile et de seringues souillées ayant déjà été utilisées. Cela favorise la transmission de maladies comme le VIH (virus du SIDA) qui touche plus de 8% des usagers de drogue injectable ou encore l’hépatite C, qui touche 55% de cette population et est une maladie du foie pouvant entraîner cancers et tumeurs -et donc la mort de l’usager- si elle n’est pas dépistée suffisamment tôt. 
 La SCMR est donc une réponse à ce problème sanitaire et propose ainsi du matériel stérile mais également des techniques d’insertion plus sûres afin de réduire les comportements à risque. 
 
 ## Par qui est gérée la Salle de Consommation à Moindre Risque ?
