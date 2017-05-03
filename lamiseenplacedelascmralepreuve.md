@@ -26,7 +26,7 @@ Image loccalisation à insérer
 
 <p align= "justify">En octobre 2013 cependant, le Conseil d’Etat freine le calendrier. Il recommande en effet d’inscrire le dispositif des SCMR dans la loi pour le sécuriser juridiquement. La législation n’ayant pas évolué depuis la loi de 1970, la salle de consommation risquerait d’être pénalisé à son ouverture. Ainsi, un projet de loi relatif à la santé est lancé en octobre 2014. Dans son titre premier “prévention avant d’avoir à guérir”, il est indiqué que “les usagers de drogues dures seront mieux accompagnés”. Une des principales dispositions du projet de loi est donc l’article 9, qui évoque les « Expérimentation des centres d'accueil et d'accompagnement à la réduction des risques pour usagers de drogues ». Cette expérimentation est ainsi lancée sur six ans maximum.</p> 
 
-<p align= "justify">Aussi, la loi du 26 janvier 2016 modernise le système de santé français. Son article 41 modifie la troisième partie du code de la santé publique pour légaliser la salle de consommation à moindre risque. L’article 43 inscrit directement la salle de consommation dans la loi.</p> 
+<p align= "justify">Aussi, la loi du 26 janvier 2016 modernise le système de santé français. <a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031912641&categorieLien=id" target="_blank">Son article 41</a> modifie la troisième partie du code de la santé publique pour légaliser la salle de consommation à moindre risque. L’article 43 inscrit directement la salle de consommation dans la loi.</p> 
  
 Source : article 43 d LOI n° 2016-41 du 26 janvier 2016 de modernisation de notre système de santé 
 URL : 
