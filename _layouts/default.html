@@ -8,7 +8,6 @@
     <meta name="theme-color" content="#157878">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    
   </head>
   <body>
     <section class="page-header">
@@ -18,34 +17,8 @@
       <a href="https://controverses.github.io/scmrparis10e/Chronologie" class="btn">Chronologie</a>
       <a href="https://controverses.github.io/scmrparis10e/Cartographie" class="btn">Cartographie</a>
       <a href="https://controverses.github.io/scmrparis10e/Bibliographie" class="btn">Bibliographie</a>
-   
-
-     <body>
-    <div class="navbar">
-     <section class="page-header">
-	     
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-       <div class="btn">
-        <a href="https://controverses.github.io/scmrparis10e">Accueil</a>
-       </div>
-      
-      <div class="dropdown">
-          <button class="dropbtn">De l'espace scientifique au débat public</button>      
-          <div class="dropdown-content">
-          <a href="https://controverses.github.io/scmrparis10e/Chronologie">Chronologie</a>
-          <a href="https://controverses.github.io/scmrparis10e/Cartographie">Cartographie</a>
-          <a href="https://controverses.github.io/scmrparis10e/Bibliographie">Bibliographie</a>
-         </div>
-    </div>
-	     
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
-	    
     </section>
-   </div> 
-    
+
     <section class="main-content">
       {{ content }}
 
