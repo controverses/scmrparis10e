@@ -11,10 +11,10 @@ Dans les rues du quartier se trouvent des distributeurs de seringues mis en plac
 
 ### L'insalubrité et l'insécurité gênent les riverains
 
-> « Les habitants sont témoins d’une scène à ciel ouvert. Le bruit, l’agressivité voire les agressions, ainsi qu’une présence permanente des toxicomanes créent un climat pesant ». 
+> « Les habitants sont témoins d’une scène à ciel ouvert. Le bruit, l’agressivité voire les agressions, ainsi qu’une présence permanente des toxicomanes créent un climat pesant. »
 Rémi Féraud, maire du Xe arrondissement
 
-> « Ras-le-bol face à ce cloaque »  
+> « Ras-le-bol face à ce cloaque. »  
 Pierre Cologner, président de l’association Vivre Gares du Nord et Est 
 
 Les rues du quartier présentent un vrai problème de propreté. Action Barbès explique que « le secteur n’est pas facile à gérer puisque s’ajoutent aux problèmes de propreté habituels, les déchets (emballages, seringues, etc.) rejetés sur la voie publique par les usagers de drogues, nombreux dans le quartier ». Didier Vincent, membre du Conseil d’administration d’Action Barbès et trésorier déclare ainsi que « les sanisettes de la rue Ambroise Paré sont les plus sales de Paris». En effet, de nombreux toxicomanes viennent s’y piquer et y laissent leurs déchets (seringues, flacons…). 
@@ -22,6 +22,19 @@ Les rues du quartier présentent un vrai problème de propreté. Action Barbès 
 La paranoïa et l’agressivité provoquées par les substances psychotropes influencent les rapports des drogués entre eux et avec les riverains. Ainsi, le 28 juillet 2012, un toxicomane est assassiné en pleine rue devant une terrasse de café bondée. De nombreux vols et cambriolages poussent aussi les magasins à fermer. Et les toxicomanes consomment beaucoup d'alcool pour améliorer l’effet des drogues. Le Monoprix du quartier, en haut du boulevard Magenta, ferme désormais à 22 heures au lieu de minuit  pour repousser ces clients indésirables. Plus généralement, il y a une réglementation particulière sur la consommation et la vente d’alcool dans le quartier. Des arrêtés interdisent la consommation et la vente d’alcool dans certaines zones du quartier pour éviter les nuisances liées à la consommation excessive d’alcool dans les rues, souvent corrélées à la consommation de drogues. 
 
 ## Appropriation du projet d’expérimentation des salles d’injections à l’échelle locale
+
+> « L’efficacité de la présence policière est limitée, il faut passer à autre chose. »
+Rémi Féraud, maire du Xe arrondissement
+
+Après l'élection de François Hollande permettant l'expérimentation de salles d'injection et face à l'urgence de la situation dans le quartier, les politiques s'emparent du projet de SCMR. Le débat cristallise notamment au moment des élections municipales à Paris en 2014. 
+
+> « Je souhaite la création d’une Salle de Consommation à Moindre Risque (SCMR), qui réduit les risques d’infections ou d’overdoses liés à la consommation de drogues par les plus fragiles et permet de limiter les nuisances pour le voisinage dues à l’usage de stupéfiants dans les lieux publics. »
+Anne Hidalgo, candidate du Parti socialiste pour les élections municipales de Paris en 2014
+
+> « La salle de shoot ne peut qu’enfoncer un peu plus encore ce quartier dans la torpeur. »
+Nathalie Kosciusko-Morizet, candidate UMP pour les élections municipales de Paris en 2014
+
+Anne Hidalgo affirme clairement sa position en faveur de la création d’une salle d'injection, s'appuyant sur les expériences menées en Espagne ou en Suisse. Nathalie Kosciusko-Morizet quant à elle sy'oppose. Elle prévoit un vaste plan de rénovation pour créer une « nouvelle attractivité des gares du Nord et de l’Est ». Elle considère qu’au vu des flux massifs engendrés par les deux gares « il est urgent de donner enfin une belle ambition au quartier ». Il s’agirait selon elle de construire un centre d’affaire international, des logements supplémentaires de tous types (25% de logements sociaux, 30% d’intermédiaires et 40% libres), un complexe sportif, une crèche, une cité universitaire et des espaces verts. Ainsi, le projet de la droite se veut beaucoup moins centré autour de la drogue. Toutefois, pour Rémi Féraud, candidat sortant à la mairie du 10e arrondissement, le projet des deux gares de NKM est « pharaonique et improvisé, au coût sous-estimé, entièrement situé sur des terrains qui n’appartiennent pas à la Ville ». On peut donc clairement distinguer deux approches opposées. A gauche, on considère qu’en résolvant le problème de la drogue par la création d’une SCMR, on peut réhabiliter le quartier. La droite a en quelque sorte la réflexion inverse : la rénovation du quartier permettrait d’endiguer les problèmes liés à la drogue. Cette opposition s’observe même dans le vocabulaire utilisée par les deux bords. Alors que le programme d’Anne Hidalgo parle de « salle de consommation à moindre risque », mettant ainsi en avant le rôle de prévention des salles d’injection, Kosciusko-Morizet utilise le terme de « salle de shoot », comme pour dénigrer l’intérêt sanitaire d’un tel dispositif. On peut toutefois se demander si la rénovation proposée par la droite ne ferait pas que déplacer le problème et non pas l’endiguer réellement. La perception des drogués du quartier est au cœur de la controverse politique, selon que l’on considère les toxicomanes avant tout comme des marginaux précarisés ou comme des délinquants, la politique promue n’est pas la même. La gauche admet donc l’existence des consommations et des usagers de drogue et prévoit un encadrement et un suivi de ces pratiques. Inversement, la droite axe davantage sa politique sur la répression des consommateurs et des revendeurs de drogue. 
 
 ### Les élections municipales de 2014 cristallisent le débat politique autour de la SCMR
 
