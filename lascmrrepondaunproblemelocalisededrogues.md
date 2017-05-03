@@ -2,14 +2,14 @@ La localisation de la SCMR à Paris n’a pas été choisie au hasard. Elle rép
 
 # Etat des lieux : un quartier rongé par les problèmes de drogue
 
-### Un fort usage de drogues dans le quartier
+##### Un fort usage de drogues dans le quartier
 
 Selon les riverains et les politiques locaux, l’ambiance dans les rues est rongée par la drogue. Le quartier est occupé par de nombreux toxicomanes, très précaires et souvent sans domicile fixe. Ils consomment essentiellement des drogues par voie d’injection d’origine médicamenteuse (Skenan, Subutex) ou de l’héroïne, et du crack par inhalation. Ils sont souvent atteint d’hépatite C (à 55%) et du SIDA (à 8%). Ces deux maladies ont pour caractéristique de se transmettre par la transfusion de sang, notamment via l’utilisation d’aiguilles non stérilisées ou le partage de pipes à crack fabriquées artisanalement. Les deals et les injections ont lieu dans l'espace public : dans les entrées des parkins souterrains, des toilettes publiques ou à même la rue. 
 
 Dans les rues du quartier se trouvent des distributeurs de seringues mis en place par des associations de prévention. Les automates d’échange de seringues distribuent, contre un jeton, des trousses de prévention contenant deux seringues, des flacons d’eau stérile et des tampons alcoolisés pour réduire les risques de contamination. Ces distributeurs permettent de prévenir une contamination ou une surinfection qui peut survenir lorsqu’un usager utilise une seringue qui a déjà servi.  On compte aujourd'hui trente-six distributeurs dans le quartier. Les associations doivent recharger les automates chaque jour, signe que les usagers sont effectivement plus sensibles à l’importance de changer de seringues à chaque injection (jusqu’à 10 par jour). En outre, le nombre de kits de seringues distribués augmente de 6 à 7% chaque année. Ainsi, le nombre de cas de SIDA par an chez les usagers de drogues injectables en France de 1990 à 2009 a diminué considérablement. Cependant, les associations retrouvent parfois des seringues contenant plusieurs produits, preuve qu’elles ont été partagées ou utilisées plusieurs fois.  
 
 
-### L'insalubrité et l'insécurité gênent les riverains
+##### L'insalubrité et l'insécurité gênent les riverains
 
 > « Les habitants sont témoins d’une scène à ciel ouvert. Le bruit, l’agressivité voire les agressions, ainsi qu’une présence permanente des toxicomanes créent un climat pesant. »
 Rémi Féraud, maire du Xe arrondissement
@@ -23,7 +23,7 @@ La paranoïa et l’agressivité provoquées par les substances psychotropes inf
 
 # Appropriation du projet d’expérimentation des salles d’injections à l’échelle locale
 
-### Les élections municipales de 2014 cristallisent le débat politique autour de la SCMR
+##### Les élections municipales de 2014 cristallisent le débat politique autour de la SCMR
 
 > « L’efficacité de la présence policière est limitée, il faut passer à autre chose. »
 Rémi Féraud, maire du Xe arrondissement
@@ -38,4 +38,4 @@ Nathalie Kosciusko-Morizet, candidate UMP pour les élections municipales de Par
 
 Anne Hidalgo affirme clairement sa position en faveur de la création d’une salle d'injection, s'appuyant sur les expériences menées en Espagne ou en Suisse. Nathalie Kosciusko-Morizet quant à elle sy'oppose. Elle prévoit un vaste plan de rénovation pour créer une « nouvelle attractivité des gares du Nord et de l’Est ». Elle considère qu’au vu des flux massifs engendrés par les deux gares « il est urgent de donner enfin une belle ambition au quartier ». Il s’agirait selon elle de construire un centre d’affaire international, des logements supplémentaires de tous types (25% de logements sociaux, 30% d’intermédiaires et 40% libres), un complexe sportif, une crèche, une cité universitaire et des espaces verts. Ainsi, le projet de la droite se veut beaucoup moins centré autour de la drogue. Toutefois, pour Rémi Féraud, candidat sortant à la mairie du 10e arrondissement, le projet des deux gares de NKM est « pharaonique et improvisé, au coût sous-estimé, entièrement situé sur des terrains qui n’appartiennent pas à la Ville ». On peut donc clairement distinguer deux approches opposées. A gauche, on considère qu’en résolvant le problème de la drogue par la création d’une SCMR, on peut réhabiliter le quartier. La droite a en quelque sorte la réflexion inverse : la rénovation du quartier permettrait d’endiguer les problèmes liés à la drogue. Cette opposition s’observe même dans le vocabulaire utilisée par les deux bords. Alors que le programme d’Anne Hidalgo parle de « salle de consommation à moindre risque », mettant ainsi en avant le rôle de prévention des salles d’injection, Kosciusko-Morizet utilise le terme de « salle de shoot », comme pour dénigrer l’intérêt sanitaire d’un tel dispositif. On peut toutefois se demander si la rénovation proposée par la droite ne ferait pas que déplacer le problème et non pas l’endiguer réellement. La perception des drogués du quartier est au cœur de la controverse politique, d'après Didier Vincent, selon que l’on considère les toxicomanes avant tout comme des marginaux précarisés ou comme des délinquants, la politique promue n’est pas la même. La gauche admet donc l’existence des consommations et des usagers de drogue et prévoit un encadrement et un suivi de ces pratiques. Inversement, la droite axe davantage sa politique sur la répression des consommateurs et des revendeurs de drogue. 
 
-### Les acteurs locaux s'organisent pour faire entendre leurs voix face aux politiques
+##### Les acteurs locaux s'organisent pour faire entendre leurs voix face aux politiques
