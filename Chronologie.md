@@ -22,7 +22,7 @@
 
 <p align= "justify">Dans un communiqué adressé à la presse, François Fillon, alors Premier Ministre, clôt le débat au sein de la majorité. Il déclare que les salles d'injections ne sont "ni utiles, ni souhaitables" car "la priorité de Matignon est de réduire la consommation de drogue, non de l'accompagner, voire de l'organiser".</p> 
 
-<p align= "justify"> ## 19 mars 2012 : François Hollande veut laisser aux villes la possibilité de mener des expérimentations comme les SCMR </p>
+## 19 mars 2012 : François Hollande veut laisser aux villes la possibilité de mener des expérimentations comme les SCMR
 
 <p align= "justify">Dans une interview au site Seronet, François Hollande, candidat à l'élection présidentielle, se positionne en faveur des SCMR. Après son élection, le projet peut être lancé.</p>
 
@@ -34,7 +34,7 @@
 
 <p align= "justify">Le Conseil d'Etat recommande au gouvernement de sécuriser le projet des SCMR en l'inscrivant dans un cadre législatif pour éviter qu'elle ne s'oppose à la loi du 31 décembre 1970 contre les stupéfiants.</p> 
 
-## 17 décembre 2015 : l'expérimentation des SCMR, dans le cadre d'une loi santé, est adoptée par l'Assemblée Nationale
+<p align= "justify"> ## 17 décembre 2015 : l'expérimentation des SCMR, dans le cadre d'une loi santé, est adoptée par l'Assemblée Nationale </p>
 
 <p align= "justify">La loi de modernisation du système de santé est adoptée puis promulguée le 26 janvier 2016. Les articles 8 et 9 prévoient la création de SCMR à Paris et à Strasbourg pour une expérimentation de six ans.</p> 
 
