@@ -1,1 +1,1 @@
-Ici se trouvera notre carte
+<p align= "center">Ici se trouvera notre carte</p>
