@@ -25,12 +25,13 @@
 
 ## Sites Internet
 
-[Aller à la page 1](https://controverses.github.io/scmrparis10e/page1)
 - Blog d’Action Barbès, en ligne. URL : [http://actionbarbes.blogspirit.com](http://actionbarbes.blogspirit.com) [consulté le 4 avril 2017]
 
-- Blog de Vivre Gares Nord et Est, en ligne. URL : http://vivregaresnord-est.fr [consulté le 5 avril 2017]
-- Chaîne youtube Global Platform for Drug Consumption Rooms, en ligne. URL : https://www.youtube.com/user/salledeconsommation
-- Page Facebook Non à la salle de shoot quartier Gare du Nord/Rue Ambroise Paré, en ligne. URL : https://www.facebook.com/nonalasalledeshootrueambroisepare/photos/a.207190776283299.1073741829.198951373773906/433587216976986/?type=3&theater [consulté le 8 avril 2017]
+- Blog de Vivre Gares Nord et Est, en ligne. URL : [http://vivregaresnord-est.fr](http://vivregaresnord-est.fr) [consulté le 5 avril 2017]
+
+- Chaîne youtube Global Platform for Drug Consumption Rooms, en ligne. URL : [https://www.youtube.com/user/salledeconsommation](https://www.youtube.com/user/salledeconsommation)
+
+- Page Facebook Non à la salle de shoot quartier Gare du Nord/Rue Ambroise Paré, en ligne. URL : [https://www.facebook.com/nonalasalledeshootrueambroisepare/photos/a.207190776283299.1073741829.198951373773906/433587216976986/?type=3&theater](https://www.facebook.com/nonalasalledeshootrueambroisepare/photos/a.207190776283299.1073741829.198951373773906/433587216976986/?type=3&theater) [consulté le 8 avril 2017]
 
 ## Vidéos
-- Paris 2014 : Le débat, animé par Laurence Ferarri et Marc-Olivier Fogiel, diffusé sur iTélé, 26/03/2014, 18h, 01h00, disponible sur http://www.dailymotion.com/video/x1k9up5_debat-entre-nkm-et-anne-hidalgo-le-26-03-2014_news
+- Paris 2014 : Le débat, animé par Laurence Ferarri et Marc-Olivier Fogiel, diffusé sur iTélé, 26/03/2014, 18h, 01h00, disponible sur [http://www.dailymotion.com/video/x1k9up5_debat-entre-nkm-et-anne-hidalgo-le-26-03-2014_news](http://www.dailymotion.com/video/x1k9up5_debat-entre-nkm-et-anne-hidalgo-le-26-03-2014_news) 
