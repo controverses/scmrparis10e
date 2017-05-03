@@ -1,4 +1,4 @@
-## Welcome to GitHub !!
+## Welcome to Hub !!
 
 [Aller à la page 1](https://controverses.github.io/scmrparis10e/page1)
 
