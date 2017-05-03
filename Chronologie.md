@@ -17,5 +17,7 @@ Lors de la Conférence internationale de Vienne sur le SIDA, Roselyne Bachelot a
 ## 12 août 2010 : François Fillon s'oppose fermement au projet
 
 Dans un communiqué adressé à la presse, François Fillon, alors Premier Ministre, clôt le débat au sein de la majorité. Il déclare que les salles d'injections ne sont "i utiles, ni souhaitables" car la priorité de Matignon est de réduire la consommation de drogue, non de l'accompagner, voire de l'organiser". 
-lflekzlvzlm
 
+## 19 mars 2012 : François Hollande, veut laisser aux villes la possibilité de mener des expérimentations comme les SCMR
+
+Dans une interview au site Seronet, François Hollande, candidat à l'élection présidentielle, se positionne en faveur des SCMR. Après son élection, le projet peut être lancé.
