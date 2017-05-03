@@ -17,5 +17,5 @@ Lors de la Conférence internationale de Vienne sur le SIDA, Roselyne Bachelot a
 ## 12 août 2010 : François Fillon s'oppose fermement au projet
 
 Dans un communiqué adressé à la presse, François Fillon, alors Premier Ministre, clôt le débat au sein de la majorité. Il déclare que les salles d'injections ne sont "i utiles, ni souhaitables" car la priorité de Matignon est de réduire la consommation de drogue, non de l'accompagner, voire de l'organiser". 
-
+lflekzlvzlm
 
