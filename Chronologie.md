@@ -1,6 +1,6 @@
-## Mai 1994 : la première SCMR en France ouvre à Montpellier
+## Mai 1994 : la première SCMR non autorisée en France ouvre à Montpellier
 
-L'association ASUD créée une SCMR à Montpellier. Elle ferme en 1995 après l'overdose d'une adolescente.
+L'association ASUD créée une SCMR à Montpellier. Elle n'est pas encadrée par les pouvoirs publics, qui ferme les yeux aux vues de l'urgence de la situation sanitaire. Elle disparaît en 1995 après l'overdose d'une adolescente.
 
 ## 19 mai 2009 : une SCMR d'un jour
 
