@@ -30,4 +30,6 @@ Le Premier Ministre Jean-Marc Ayrault charge la MILDT (Mission Interministériel
 
 Le Conseil d'Etat recommande au gouvernement de sécuriser le projet des SCMR en l'inscrivant dans un cadre législatif pour éviter qu'elle ne s'oppose à la loi du 31 décembre 1970 contre les stupéfiants. 
 
+## 17 décembre 2015 : les SCMR, dans le cadre d'une loi santé, sont adoptées par l'Assemblée Nationale
 
+La loi sAprès avoir été approuvée à l’Assemblée en avril, puis au Sénat en septembre, la loi santé est définitivement adoptée le 17 décembre 2015. Dans ses articles 8 et 9 figure l’expérimentation des « salles de shoot » à Paris et Strasbourg pendant six ans. Dès lors, le ministère de la santé assure que les choses peuvent « aller très vite » et que ces salles pourraient être autorisées à ouvrir dès la fin du mois de mars 2016. Entre-temps, le conseil régional d’Ile-de-France a retiré sa subvention à la salle parisienne, une perte que la Ville de Paris a compensée.
