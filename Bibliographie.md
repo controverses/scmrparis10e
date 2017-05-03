@@ -1,4 +1,3 @@
-[Aller à la page 1](https://controverses.github.io/scmrparis10e/page1)
 ## Articles de presse
 
 - Auteur non spécifié (2016). Le long périple du projet de salle d'injection à Paris avant son ouverture. Le Monde,  en ligne. URL : [http://www.lemonde.fr/addictions/article/2016/10/11/le-long-periple-du-projet-de-salle-d-injection-a-paris-avant-son-ouverture_5011514_1655173.html](http://www.lemonde.fr/addictions/article/2016/10/11/le-long-periple-du-projet-de-salle-d-injection-a-paris-avant-son-ouverture_5011514_1655173.html) [Consulté le 25 février 2017]
@@ -32,6 +31,9 @@
 - Chaîne youtube Global Platform for Drug Consumption Rooms, en ligne. URL : [https://www.youtube.com/user/salledeconsommation](https://www.youtube.com/user/salledeconsommation) [consulté le 17 février 2017]
 
 - Page Facebook Non à la salle de shoot quartier Gare du Nord/Rue Ambroise Paré, en ligne. URL : [https://www.facebook.com/nonalasalledeshootrueambroisepare/photos/a.207190776283299.1073741829.198951373773906/433587216976986/?type=3&theater](https://www.facebook.com/nonalasalledeshootrueambroisepare/photos/a.207190776283299.1073741829.198951373773906/433587216976986/?type=3&theater) [consulté le 8 avril 2017]
+
+- Ministère des Affaires Sociales et de la Santé [http://social-sante.gouv.fr/](http://social-sante.gouv.fr/) [consulté le 9 mars]
+
 
 ## Vidéos
 - Paris 2014 : Le débat, animé par Laurence Ferarri et Marc-Olivier Fogiel, diffusé sur iTélé, 26/03/2014, 18h, 01h00, disponible sur [http://www.dailymotion.com/video/x1k9up5_debat-entre-nkm-et-anne-hidalgo-le-26-03-2014_news](http://www.dailymotion.com/video/x1k9up5_debat-entre-nkm-et-anne-hidalgo-le-26-03-2014_news) [consulté le 28 mars 2017]
