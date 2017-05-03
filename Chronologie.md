@@ -21,3 +21,13 @@ Dans un communiqué adressé à la presse, François Fillon, alors Premier Minis
 ## 19 mars 2012 : François Hollande, veut laisser aux villes la possibilité de mener des expérimentations comme les SCMR
 
 Dans une interview au site Seronet, François Hollande, candidat à l'élection présidentielle, se positionne en faveur des SCMR. Après son élection, le projet peut être lancé.
+
+## 5 février 2013 : Jean-Marc Ayrault donne son feu vert à l’expérimentation
+
+Le Premier Ministre Jean-Marc Ayrault charge la MILDT (Mission Interministérielle de Lutte contre Les Drogues et Toxicomanie) de mettre en place les expérimentations de SCMR.
+
+## 10 octobre 2013 : le Conseil d'Etat ralentit le projet de Matignon
+
+Le Conseil d'Etat recommande au gouvernement de sécuriser le projet des SCMR en l'inscrivant dans un cadre législatif pour éviter qu'elle ne s'oppose à la loi du 31 décembre 1970 contre les stupéfiants. 
+
+
