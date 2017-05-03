@@ -25,6 +25,8 @@ Les rues du quartier présentent un vrai problème de propreté. Action Barbès 
 
 La paranoïa et l’agressivité provoquées par les substances psychotropes influencent les rapports des drogués entre eux et avec les riverains. Ainsi, le 28 juillet 2012, un toxicomane est assassiné en pleine rue devant une terrasse de café bondée. De nombreux vols et cambriolages poussent aussi les magasins à fermer. Et les toxicomanes consomment beaucoup d'alcool pour améliorer l’effet des drogues. Le Monoprix du quartier, en haut du boulevard Magenta, ferme désormais à 22 heures au lieu de minuit  pour repousser ces clients indésirables. Plus généralement, il y a une réglementation particulière sur la consommation et la vente d’alcool dans le quartier. Des arrêtés interdisent la consommation et la vente d’alcool dans certaines zones du quartier pour éviter les nuisances liées à la consommation excessive d’alcool dans les rues, souvent corrélées à la consommation de drogues. 
 
+<div style="text-align:center"><img src ="http://vivregaresnord-est.fr/wp-content/uploads/2013/12/TEXTE-C-tract_Manif-01-12-2012.jpg" /></div>
+
 ## Appropriation du projet d’expérimentation des salles d’injections à l’échelle locale
 
 ### Les élections municipales de 2014 cristallisent le débat politique autour de la SCMR
