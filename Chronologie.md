@@ -14,3 +14,8 @@ L'Institut National de la Santé Et de la Recherche Médicale (INSERM) rend à R
 
 Lors de la Conférence internationale de Vienne sur le SIDA, Roselyne Bachelot annonce vouloir lancer une concertation sur les salles d'injection. Cela provoque un débat au sein de la droite, entre les différents membres du gouvernement et de l'UMP. 
 
+## 12 août 2010 : François Fillon s'oppose fermement au projet
+
+Dans un communiqué adressé à la presse, François Fillon, alors Premier Ministre, clôt le débat au sein de la majorité. Il déclare que les salles d'injections ne sont "i utiles, ni souhaitables" car la priorité de Matignon est de réduire la consommation de drogue, non de l'accompagner, voire de l'organiser". 
+
+
