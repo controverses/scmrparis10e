@@ -1,12 +1,12 @@
 <p align= "justify">Dans le cadre de la politique de réduction des risques, une salle d'injection de drogue appelée Salle de Consommation à Moindre Risque (SCMR) a ouvert ses portes à Paris rue Ambroise Paré dans le Xe arrondissement le 11 octobre 2016.
 Ce projet a été sujet à controverse, aussi bien au sein que entre riverains, politiques, entreprises, professionnels de santé, etc...</p>
 
-<div style="text-align:center"><img src ="http://www.drogues.gouv.fr/sites/drogues.gouv.fr/files/thumbnails/image/scmr_table_mf_20161110_800px.jpg" /></div>
-
 ## Qu'est-ce qu'une SCMR ? 
 
 <p align= "justify">Une Salle de Consommation à Moindre Risque, aussi appelée Centre d'Injection Supervisé, est une structure dans laquelle les usagers peuvent venir s'injecter des drogues -qu'ils apportent- de façon plus sûre et hygiénique, sous la supervision d'un personnel qualifié. Elle cherche ainsi à réduire les risques sanitaires auxquels sont sujets les usagers de drogue injectable.
 La SCMR répond ainsi à un double objectif de santé publique mais également de tranquillité publique, en réduisant les nuisances associées à l’usage de drogues en milieu urbain et en favorisant un meilleur vivre-ensemble dans le quartier.</p> 
+
+<div style="text-align:center"><img src ="http://www.drogues.gouv.fr/sites/drogues.gouv.fr/files/thumbnails/image/scmr_table_mf_20161110_800px.jpg" /></div>
 
 ## De quels risques sanitaires parle-t-on ?
 
