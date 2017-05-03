@@ -16,7 +16,7 @@ Lors de la Conférence internationale de Vienne sur le SIDA, Roselyne Bachelot a
 
 ## 12 août 2010 : François Fillon s'oppose fermement au projet
 
-Dans un communiqué adressé à la presse, François Fillon, alors Premier Ministre, clôt le débat au sein de la majorité. Il déclare que les salles d'injections ne sont "i utiles, ni souhaitables" car la priorité de Matignon est de réduire la consommation de drogue, non de l'accompagner, voire de l'organiser". 
+Dans un communiqué adressé à la presse, François Fillon, alors Premier Ministre, clôt le débat au sein de la majorité. Il déclare que les salles d'injections ne sont "ni utiles, ni souhaitables" car la priorité de Matignon est de réduire la consommation de drogue, non de l'accompagner, voire de l'organiser". 
 
 ## 19 mars 2012 : François Hollande, veut laisser aux villes la possibilité de mener des expérimentations comme les SCMR
 
@@ -32,4 +32,8 @@ Le Conseil d'Etat recommande au gouvernement de sécuriser le projet des SCMR en
 
 ## 17 décembre 2015 : les SCMR, dans le cadre d'une loi santé, sont adoptées par l'Assemblée Nationale
 
-La loi sAprès avoir été approuvée à l’Assemblée en avril, puis au Sénat en septembre, la loi santé est définitivement adoptée le 17 décembre 2015. Dans ses articles 8 et 9 figure l’expérimentation des « salles de shoot » à Paris et Strasbourg pendant six ans. Dès lors, le ministère de la santé assure que les choses peuvent « aller très vite » et que ces salles pourraient être autorisées à ouvrir dès la fin du mois de mars 2016. Entre-temps, le conseil régional d’Ile-de-France a retiré sa subvention à la salle parisienne, une perte que la Ville de Paris a compensée.
+La loi de modernisation du système de santé est adoptée puis promulguée le 26 janvier 2016. Les articles 8 et 9 prévoient la création de SCMR à Paris et à Strasbourg pour une expérimentation de six ans. 
+
+## 11 octobre 2016 : inauguration de la première SCMR à Paris
+
+La SCMR Espace Gaïa de Paris ouvre le 17 octobre pour toues les usagers de 13h30 à 20h30, au 4 rue Ambroise Paré.
