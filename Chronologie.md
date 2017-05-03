@@ -34,10 +34,10 @@ Le Premier Ministre Jean-Marc Ayrault charge la MILDT (Mission Interministériel
 
 Le Conseil d'Etat recommande au gouvernement de sécuriser le projet des SCMR en l'inscrivant dans un cadre législatif pour éviter qu'elle ne s'oppose à la loi du 31 décembre 1970 contre les stupéfiants. 
 
-## 17 décembre 2015 : les SCMR, dans le cadre d'une loi santé, sont adoptées par l'Assemblée Nationale
+## 17 décembre 2015 : l'expérimentation des SCMR, dans le cadre d'une loi santé, est adoptée par l'Assemblée Nationale
 
 La loi de modernisation du système de santé est adoptée puis promulguée le 26 janvier 2016. Les articles 8 et 9 prévoient la création de SCMR à Paris et à Strasbourg pour une expérimentation de six ans. 
 
 ## 11 octobre 2016 : inauguration de la première SCMR à Paris
 
-La SCMR Espace Gaïa de Paris ouvre le 17 octobre pour toues les usagers de 13h30 à 20h30, au 4 rue Ambroise Paré.
+La SCMR Espace Gaïa de Paris ouvre le 17 octobre pour tous les usagers de 13h30 à 20h30, au 4 rue Ambroise Paré.
