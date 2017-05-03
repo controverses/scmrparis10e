@@ -1,6 +1,6 @@
 <p align= "justify">Afin de mieux cerner la manière dont la presse rend compte de la controverse, il est possible de recenser les articles publiés à son sujet entre l'annonce du projet et l'ouverture de la SCMR en octobre dernier. À chaque lecture, le sujet de l’article, les personnes et les entités dont il est question, les personnes qui étaient citées ainsi que les dénominations utilisées pour qualifier la SCMR et ses usagers (ou futurs usagers selon la période de parution de l’article) sont relevés. Cela permet de dégager une représentation générale de la controverse donnée par la presse généraliste française.</p>
 
-###### Un constat : les usagers ou futurs usagers de la salle ne s’expriment pas ou ne sont pas interrogés dans les journaux
+## Un constat : les usagers ou futurs usagers de la salle ne s’expriment pas ou ne sont pas interrogés dans les journaux
 
 Nombre d’articles qui évoquent certaines personnalités en fonction du temps 
 Exemple : en 2013, Rémi Féraud a été évoqué dans 18 articles, c’est celui qui a été le plus évoqué cette année-là dans la presse
