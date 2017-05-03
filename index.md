@@ -5,8 +5,8 @@ Ce projet a été sujet à controverse, aussi bien au sein que entre riverains, 
 
 Une Salle de Consommation à Moindre Risque, aussi appelée Centre d'Injection Supervisé, est une structure dans laquelle les usagers peuvent venir s'injecter des drogues -qu'ils apportent- de façon plus sûre et hygiénique, sous la supervision d'un personnel qualifié.
 
+<div style="text-align:center"><img src ="http://www.drogues.gouv.fr/sites/drogues.gouv.fr/files/thumbnails/image/scmr_table_mf_20161110_800px.jpg" /></div>
 
-
-<p align= "center">![SCMR](http://www.drogues.gouv.fr/sites/drogues.gouv.fr/files/thumbnails/image/scmr_table_mf_20161110_800px.jpg)</p>
+![SCMR](http://www.drogues.gouv.fr/sites/drogues.gouv.fr/files/thumbnails/image/scmr_table_mf_20161110_800px.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eSa6CckQ7BQ" frameborder="0" allowfullscreen></iframe>
