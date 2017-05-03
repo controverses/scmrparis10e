@@ -1,3 +1,7 @@
+## mai 1994 : la première SCMR en France ouvre à Montpellier
+
+L'association ASUD créée une SCMR à Montpellier. Elle ferme en 1995 après l'overdose d'une adolescente.
+
 ## 19 mai 2009 : une SCMR d'un jour
 
 A l'occasion de la journée mondiale des hépatites, plusieurs associations (ASUD, ANITEA, Act up, Safe, Gaïa, SOS Hépatites), soutenues par Jean-Marie Le Guen, alors adjoint socialiste au maire de Paris, installent une SCMR à Belleville. L’objectif est de présenter l’intérêt d’un tel dispositif aux électeurs et aux élus parisiens. 
@@ -16,9 +20,9 @@ Lors de la Conférence internationale de Vienne sur le SIDA, Roselyne Bachelot a
 
 ## 12 août 2010 : François Fillon s'oppose fermement au projet
 
-Dans un communiqué adressé à la presse, François Fillon, alors Premier Ministre, clôt le débat au sein de la majorité. Il déclare que les salles d'injections ne sont "ni utiles, ni souhaitables" car la priorité de Matignon est de réduire la consommation de drogue, non de l'accompagner, voire de l'organiser". 
+Dans un communiqué adressé à la presse, François Fillon, alors Premier Ministre, clôt le débat au sein de la majorité. Il déclare que les salles d'injections ne sont "ni utiles, ni souhaitables" car "la priorité de Matignon est de réduire la consommation de drogue, non de l'accompagner, voire de l'organiser". 
 
-## 19 mars 2012 : François Hollande, veut laisser aux villes la possibilité de mener des expérimentations comme les SCMR
+## 19 mars 2012 : François Hollande veut laisser aux villes la possibilité de mener des expérimentations comme les SCMR
 
 Dans une interview au site Seronet, François Hollande, candidat à l'élection présidentielle, se positionne en faveur des SCMR. Après son élection, le projet peut être lancé.
 
