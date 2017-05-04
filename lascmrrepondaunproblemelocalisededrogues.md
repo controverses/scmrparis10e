@@ -53,61 +53,52 @@ Nathalie Kosciusko-Morizet, candidate UMP pour les élections municipales de Par
 <div style="padding:4px; border:4px solid #e0e0e0;">
 <div style="padding:3px; background-color:#e0e0e0;">
 <strong>Le comité de voisinage est divisé en cinq collèges</strong><br>  
-<p align="justify">## Collège habitants :  <br>
+<p align="justify"> Collège habitants :  <br>
 - Association Action Barbes (2 personnes)<br>
 - Association Vivre Gare du Nord et de l’Est (2 personnes)<br>
 - Collectif “Non à la salle de shoot” (2 personnes)<br>
 - Conseil de Quartier Lariboisière - St Vincent de Paul (2 personnes)<br>
 - Crèche Bossuet, maternelle Belzunce, élémentaire Belzunce (1 représentant des parents par établissement)<br>
 - Acteur local (1 personne)<br>
-- Manifestations comportementales : isolement social, agressivité, cynisme, désengagement moral envers autrui et envers le travail, absentéisme, manque d'énergie, consommation de substances  <br>
-- Manifestations cognitives : diminution de l'efficacité cognitive, troubles de concentration et de mémoire, désorganisation, indécision, résistance au changement, situations d'échec professionnel fréquentes  <br>
-- Retentissements somatiques : douleurs dorsales, céphalées, nausées, vertiges, troubles du sommeil, prise ou perte de poids</p>
-</div>
-</div>
 
+Collège institutions et entreprises locales :<br>
+- Commissariat de Police du 10e (1 personne)<br>
+- Préfecture de Police (1 personne)<br>
+- Justice (1 personne)<br>
+- AP-HP Hôpital Lariboisière (1 personne)<br>
+- Effia (1 personne)<br>
+- RATP (1 personne)<br>
+- SNCF (1 personne)<br>
+- Services techniques de la Ville de Paris : DPE, DEVE, DPSP (3 personnes)<br>
 
-- Association Action Barbes (2 personnes)
-- Association Vivre Gare du Nord et de l’Est (2 personnes)
-- Collectif “Non à la salle de shoot” (2 personnes)
-- Conseil de Quartier Lariboisière - St Vincent de Paul (2 personnes)
-- Crèche Bossuet, maternelle Belzunce, élémentaire Belzunce (1 représentant des parents par établissement)
-- Acteur local (1 personne)
-Collège institutions et entreprises locales :
-- Commissariat de Police du 10e (1 personne)
-- Préfecture de Police (1 personne)
-- Justice (1 personne)
-- AP-HP Hôpital Lariboisière (1 personne)
-- Effia (1 personne)
-- RATP (1 personne)
-- SNCF (1 personne)
-- Services techniques de la Ville de Paris : DPE, DEVE, DPSP (3 personnes)
-Collège acteurs du projet SCMR, associations locales travaillant sur la toxicomanie et la précarité
-- Gaïa (3 personnes) 
-- Arc 75 (1 personne)
-- Aux Captifs, la Libération (1 personne)
-- B10 Beaurepaire (1 personne)
-- Coordination Toxicomanies (1 personne)
-- Ego Aurore (1 personne)
-- SAFE (1 personne)
+Collège acteurs du projet SCMR, associations locales travaillant sur la toxicomanie et la précarité<br>
+- Gaïa (3 personnes) <br>
+- Arc 75 (1 personne)<br>
+- Aux Captifs, la Libération (1 personne)<br>
+- B10 Beaurepaire (1 personne)<br>
+- Coordination Toxicomanies (1 personne)<br>
+- Ego Aurore (1 personne)<br>
+- SAFE (1 personne)<br>
+
 Collège Elus
-- Maire du 10e
-- Elu santé du 10e
-- Elu prévention-sécurité du 10e
-- Groupes politiques du conseil du 10e (1 personne par groupe)
-- Elus délégués à la toxicomanie représentants les 18e et 19e (1 personne par arrondissement)
-- Représentant de la Maire de Paris
-- Représentant de l’Adjoint à la santé de la Mairie de Paris
-- Représentant de l’Adjoint à la sécurité de la Mairie de Paris
-Collège institutions Santé et Toxicomanie
-- Mission Métropolitaine de Prévention des Conduites à Risques (2 personnes)
-- Inserm (1 personne)
-- AP-HP Espace Murger (1 personne)
-- Mission Interministérielle de Lutte contre les Drogues Et les Conduites Addictives (1 personne)
-- Agence Régionale de Santé (1 personne)
-- Direction Départementale de la Cohésion Sociale de Paris - Mission Prévention (1 personne)
+- Maire du 10e<br>
+- Elu santé du 10e<br>
+- Elu prévention-sécurité du 10e<br>
+- Groupes politiques du conseil du 10e (1 personne par groupe)<br>
+- Elus délégués à la toxicomanie représentants les 18e et 19e (1 personne par arrondissement)<br>
+- Représentant de la Maire de Paris<br>
+- Représentant de l’Adjoint à la santé de la Mairie de Paris<br>
+- Représentant de l’Adjoint à la sécurité de la Mairie de Paris<br>
 
-
+Collège institutions Santé et Toxicomanie<br>
+- Mission Métropolitaine de Prévention des Conduites à Risques (2 personnes)<br>
+- Inserm (1 personne)<br>
+- AP-HP Espace Murger (1 personne)<br>
+- Mission Interministérielle de Lutte contre les Drogues Et les Conduites Addictives (1 personne)<br>
+- Agence Régionale de Santé (1 personne)<br>
+- Direction Départementale de la Cohésion Sociale de Paris - Mission Prévention (1 personne)<br></p>
+</div>
+</div>
 <p align= "justify">Ainsi, les premiers comités montrent que le quotidien du quartier n’a pas été bouleversé par la SCMR : la salle n’a pas entraîné d’augmentation significative du nombre de toxicomanes dans le quartier et il semble n’y avoir que légèrement plus de deal dans la rue. Cependant, le quatrième comité a été l’occasion pour les riverains d’exprimer leur déception face à la dégradation de la situation. En effet, le 26 février, une bagarre a éclaté entre des toxicomanes. Largement relayée par les médias, la vidéo de cet incident comptabilise plus de 60 000 vues sur YouTube au 14 avril 2017.</p> 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CbJsizekORc" frameborder="0" allowfullscreen></iframe>
