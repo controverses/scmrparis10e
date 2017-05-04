@@ -77,7 +77,7 @@
 [https://www.legifrance.gouv.fr/](https://www.legifrance.gouv.fr/) [consulté le 13 février 2017]
 
 
-## Vidéos
+## Vidéo
 - Paris 2014 : Le débat, animé par Laurence Ferarri et Marc-Olivier Fogiel, diffusé sur iTélé, 26/03/2014, 18h, 01h00, disponible sur [http://www.dailymotion.com/video/x1k9up5_debat-entre-nkm-et-anne-hidalgo-le-26-03-2014_news](http://www.dailymotion.com/video/x1k9up5_debat-entre-nkm-et-anne-hidalgo-le-26-03-2014_news) [consulté le 28 mars 2017]
 
 ## Sources des photos et vidéos du site
