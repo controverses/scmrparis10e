@@ -2,8 +2,8 @@
 
 ## Un constat : les usagers ou futurs usagers de la salle ne sont pas entendus dans les journaux
 
-<p align= "justify">*Nombre d’articles qui évoquent certaines personnalités en fonction du temps*
-*Exemple : en 2013, Rémi Féraud a été évoqué dans 18 articles, c’est celui qui a été le plus évoqué cette année-là dans la presse*</p>
+<p align= "justify"> *Nombre d’articles qui évoquent certaines personnalités en fonction du temps
+Exemple : en 2013, Rémi Féraud a été évoqué dans 18 articles, c’est celui qui a été le plus évoqué cette année-là dans la presse* </p>
 
 <div style="text-align:center"><img src ="https://github.com/controverses/scmrparis10e/blob/master/graphique-qui.png" /></div>
 
