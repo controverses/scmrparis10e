@@ -32,7 +32,7 @@ Exemple : la gare du Nord a été évoquée dans 17 articles en 2013)</p>
 (Exemple : le déplacement de la SCMR a été évoqué dans huit articles en 2015)</p>
 
 <div style="text-align:center"><img src ="https://github.com/controverses/scmrparis10e/blob/master/graphique-quoi.png" /></div>
-<div style="text-align:center"><img src ="https://github.com/controverses/scmrparis10e/blob/master/graphique-quoi.png" /></div>
+<div style="text-align:center"><img src ="https://github.com/controverses/scmrparis10e/blob/master/legende-quoi.png" /></div>
 
 <p align= "justify">D’après les données recueillies, la presse traite en grande partie l’aspect “localisé” de la controverse. En effet, dans les graphiques, on remarque que les personnes à qui la parole est le plus donnée ou auxquelles on fait le plus souvent allusion sont les personnes porteuses du projet (telles que Rémi Féraud, maire du Xe arrondissement ou Marisol Touraine) ainsi que les riverains ou associations de riverains. Il n’est quasiment pas - voire jamais - fait allusion à la controverse scientifique sous-jacente, censée représenter un des enjeux principaux du projet selon le gouvernement, aux côtés de la problématique sociale de réinsertion des “précarisés”.</p>
 
