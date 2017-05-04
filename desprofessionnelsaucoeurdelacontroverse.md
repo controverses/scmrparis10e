@@ -56,20 +56,31 @@
 ### Une évaluation de l'acceptabilité sociale des SCMR, étudier leur impact sur la santé publique
  
 <p align= "justify">Le second programme est une évaluation de l’évolution des nuisances associées à la consommation de drogues avant et après la mise en place des SCMR, ainsi que de l’évolution des perceptions de celles-ci. Elle est conduite par l’INSERM et plus précisément par le CERMES 3. Elle a déjà démarrée à Paris.</p> 
- 
-<p align= "justify">Une enquête sociologique à Paris :</p>  
-- observations ethnographiques 
-- une centaine de personnes interrogées dans le cadre d’entretiens semi-directifs
-- acteurs classiques : riverains, toxicomanes, des membres des associations, des membres des forces de police ou encore de représentants de la mairie du Xe arrondissement. 
-- renforcer l'acceptabilité sociale des SCMR.
-enquêtes sociologiques à l’étranger ont montré que le sondage et la consultation des riverains amènent à la rendre plus plébiscitée pour deux raisons. D’une part, en se sentant plus investis, les riverains acceptent davantage la SCMR. D’autre part cela conduit naturellement à des évolutions du dispositif dans le sens des revendications exprimées.
- 
-<p align= "justify">Recueil de données quantitatives :</p> 
-- dépasser l’opposition pour/contre des sondages d’opinion 
-- connaître l’impact réel des SCMR sur la tranquillité publique et la qualité de vie dans le quartier. - compter les traces de consommation : seringues, flacons. 
-- sur plusieurs années
-- indicateurs fournis par différentes institutions ou acteurs tels que la police, les parkings
 
+<div style="padding:4px; border:4px solid #e0e0e0;">
+<div style="padding:3px; background-color:#e0e0e0;">
+<p align="justify"> <strong>Une enquête sociologique à Paris :</strong>  <br>
+- observations ethnographiques<br> 
+- une centaine de personnes interrogées dans le cadre d’entretiens semi-directifs<br>
+- acteurs classiques : riverains, toxicomanes, des membres des associations, des membres des forces de police ou encore de représentants de la mairie du Xe arrondissement. <br>
+- renforcer l'acceptabilité sociale des SCMR.<br>
+</p>
+</div>
+</div>
+Les enquêtes sociologiques à l’étranger ont montré que le sondage et la consultation des riverains amènent à la rendre plus plébiscitée pour deux raisons. D’une part, en se sentant plus investis, les riverains acceptent davantage la SCMR. D’autre part cela conduit naturellement à des évolutions du dispositif dans le sens des revendications exprimées.
+
+<div style="padding:4px; border:4px solid #e0e0e0;">
+<div style="padding:3px; background-color:#e0e0e0;">
+<p align="justify"> <strong>Recueil de données quantitatives :</strong>  <br>
+- dépasser l’opposition pour/contre des sondages d’opinion <br> 
+- connaître l’impact réel des SCMR sur la tranquillité publique et la qualité de vie dans le quartier. <br> 
+- compter les traces de consommation : seringues, flacons. <br> 
+- sur plusieurs années<br> 
+- indicateurs fournis par différentes institutions ou acteurs tels que la police, les parkings<br> 
+</p>
+</div>
+</div>
+ 
 ## Le rôle des professionnels dans la mise en place de la SCMR
 
 ### Le rapport de l’INSERM de 2010, une expertise décisive pour la mise en place de la SCMR
