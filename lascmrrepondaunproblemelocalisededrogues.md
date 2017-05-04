@@ -53,7 +53,6 @@ Nathalie Kosciusko-Morizet, candidate UMP pour les élections municipales de Par
 <div style="padding:4px; border:4px solid #e0e0e0;">
 <div style="padding:3px; background-color:#e0e0e0;">
 
-<p align="justify">
 Collège habitants :
 - Association Action Barbes (2 personnes)
 - Association Vivre Gare du Nord et de l’Est (2 personnes)
@@ -94,7 +93,7 @@ Collège institutions Santé et Toxicomanie
 - Mission Interministérielle de Lutte contre les Drogues Et les Conduites Addictives (1 personne)
 - Agence Régionale de Santé (1 personne)
 - Direction Départementale de la Cohésion Sociale de Paris - Mission Prévention (1 personne)
-</i> </p> 
+</i> 
 </div> 
 </div>
 <br>
