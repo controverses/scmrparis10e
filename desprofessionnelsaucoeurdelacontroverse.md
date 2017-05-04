@@ -1,3 +1,5 @@
+<p align= "justify">Des professionnels de santé et des sociologues se trouvent au coeur de la controverse pour évaluer le projet. Ils sont toutefois largement invisibilisés dans les médias traditionnels.</p> 
+
 ## La SCMR : une expérimentation
 
 <p align= "justify">La salle de consommation à moindre risque est avant tout un dispositif expérimental. Il est coordonné par la mission interministérielle de lutte contre les drogues et les conduites addictives (MILDECA). Il s’inscrit dans le plan gouvernemental de lutte contre les drogues et les conduites addictives qui s’étale de 2013 à 2017. Cette expérience constitue en la mise en place de deux salles d’injection à Paris et Strasbourg pour une durée déterminée de 6 ans. Etant donné que la SCMR est une expérience, la MILDECA souhaite l’évaluer. Ainsi, deux programmes de recherche ont été mis en place.</p> 
