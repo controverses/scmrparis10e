@@ -6,7 +6,7 @@ Image loccalisation à insérer
 
 <p align= "justify">Les locaux proposés rue de Maubeuge par la SNCF étaient cependant très exigus et il n’y avait pas d’espace extérieur disponible. Aussi, c’est l’adresse du 39 boulevard de la Chapelle qui a été retenue au départ, en 2013. La disposition des locaux convenait le mieux d’un côté pratique pour l’installation de la salle de consommation. Cependant, ce choix a fait l’objet de nombreuses contestations. Effectivement, deux écoles se trouvaient à proximité du 39 boulevard de la Chapelle. Les riverains étaient opposés à ce que la SCMR ouvre si proche d’écoles. Des banderoles de manifestations devant le bâtiment du 37 boulevard de la Chapelle furent affichées comme sur la photo ci-dessus par exemple. Les riverains y dénoncent l’installation de la salle de consommation à proximité de cette école.</p>
 
-
+<div style="text-align:center"><img src ="http://referentiel.nouvelobs.com/file/6513060-salle-de-shoot-le-conseil-d-etat-dit-non-et-exige-une-loi.jpg" /></div>
 Banderoles de manifestations devant le bâtiment du 37 boulevard de la Chapelle 
 Source : Jacques Demarthon pour l’AFP
 
