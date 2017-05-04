@@ -53,7 +53,7 @@ Nathalie Kosciusko-Morizet, candidate UMP pour les élections municipales de Par
 <div style="padding:4px; border:4px solid #e0e0e0;">
 <div style="padding:3px; background-color:#e0e0e0;">
 <strong>Le comité de voisinage est divisé en cinq collèges</strong><br>  
-<p align="justify"> Collège habitants :  <br>
+<p align="justify"> <strong>Collège habitants :</strong>  <br>
 - Association Action Barbes (2 personnes)<br>
 - Association Vivre Gare du Nord et de l’Est (2 personnes)<br>
 - Collectif “Non à la salle de shoot” (2 personnes)<br>
@@ -61,7 +61,7 @@ Nathalie Kosciusko-Morizet, candidate UMP pour les élections municipales de Par
 - Crèche Bossuet, maternelle Belzunce, élémentaire Belzunce (1 représentant des parents par établissement)<br>
 - Acteur local (1 personne)<br>
 
-Collège institutions et entreprises locales :<br>
+<strong>Collège institutions et entreprises locales :</strong><br>
 - Commissariat de Police du 10e (1 personne)<br>
 - Préfecture de Police (1 personne)<br>
 - Justice (1 personne)<br>
@@ -71,7 +71,7 @@ Collège institutions et entreprises locales :<br>
 - SNCF (1 personne)<br>
 - Services techniques de la Ville de Paris : DPE, DEVE, DPSP (3 personnes)<br>
 
-Collège acteurs du projet SCMR, associations locales travaillant sur la toxicomanie et la précarité<br>
+<strong>Collège acteurs du projet SCMR, associations locales travaillant sur la toxicomanie et la précarité : </strong><br>
 - Gaïa (3 personnes) <br>
 - Arc 75 (1 personne)<br>
 - Aux Captifs, la Libération (1 personne)<br>
@@ -80,7 +80,7 @@ Collège acteurs du projet SCMR, associations locales travaillant sur la toxicom
 - Ego Aurore (1 personne)<br>
 - SAFE (1 personne)<br>
 
-Collège Elus
+<strong>Collège Elus :</strong><br>
 - Maire du 10e<br>
 - Elu santé du 10e<br>
 - Elu prévention-sécurité du 10e<br>
@@ -90,7 +90,7 @@ Collège Elus
 - Représentant de l’Adjoint à la santé de la Mairie de Paris<br>
 - Représentant de l’Adjoint à la sécurité de la Mairie de Paris<br>
 
-Collège institutions Santé et Toxicomanie<br>
+<strong>Collège institutions Santé et Toxicomanie :</strong><br>
 - Mission Métropolitaine de Prévention des Conduites à Risques (2 personnes)<br>
 - Inserm (1 personne)<br>
 - AP-HP Espace Murger (1 personne)<br>
