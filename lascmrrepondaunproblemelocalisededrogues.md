@@ -53,6 +53,7 @@ Nathalie Kosciusko-Morizet, candidate UMP pour les élections municipales de Par
 <div style="padding:4px; border:4px solid #e0e0e0;">
 <div style="padding:3px; background-color:#e0e0e0;">
 Le comité de voisinage est divisé en cinq collèges : 
+
 Collège habitants : 
 - Association Action Barbes (2 personnes)
 - Association Vivre Gare du Nord et de l’Est (2 personnes)
