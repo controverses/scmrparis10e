@@ -78,7 +78,7 @@ Toutes les enquêtes menées auprès des usagers des CIS (ou SCMR) montrent qu�
 > « Si vous le pouvez, ne vous droguez pas. Sinon, essayez de sniffer au lieu d’injecter. Sinon, utilisez une seringue propre. Sinon, réutilisez la vôtre. Au pire, si vous partagez une seringue, nettoyez-la à l’eau de javel ». 
 Marie Jauffret-Roustide, sociologue chargée de recherche à l'INSERM
 
-<p align= "justify">Ainsi, il ne s’agit plus d’éradiquer les drogues mais davantage d’apprendre à vivre avec comme l’avait proposé Ehrenberg. Tout cela constitue une rupture dans la mesure ou auparavant, la duo sevrage-psychothérapie était privilégié.c
+<p align= "justify">Ainsi, il ne s’agit plus d’éradiquer les drogues mais davantage d’apprendre à vivre avec comme l’avait proposé Ehrenberg. Tout cela constitue une rupture dans la mesure ou auparavant, la duo sevrage-psychothérapie était privilégié.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yi7prk6vMRw" frameborder="0" allowfullscreen></iframe>
  
