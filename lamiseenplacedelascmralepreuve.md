@@ -1,3 +1,5 @@
+<p align= "justify">La mise en place de la SCMR a été confrontée a un certain nombre d'obstacles, notamment concernant la localisation de la salle et le cadre législatif dans lequel elle s'inscrit.</p>
+
 ## La localisation à l’épreuve
 
 <p align= "justify">À l’origine, la salle de consommation devait se situer près de la gare du Nord, mais un camp de réfugiés a rendu la localisation impossible. La localisation de la salle a donc ensuite été prévue à proximité de l’hôpital Lariboisière. Dans un article de l’association Action Barbès datant du 23 juillet 2013, Rémi Féraud, maire du Xe arrondissement, motive les différents choix d’implantations pour la salle. Ainsi, plusieurs solutions se présentaient pour l’emplacement de la salle de consommation. Dans un premier temps, l’hôpital Lariboisière où un emplacement existait déjà, et donc où un permis de construire n’était pas nécessaire. Aussi, la SNCF a proposé deux emplacements, des locaux rue de Maubeuge, ou le 39 boulevard de la Chapelle.</p>
