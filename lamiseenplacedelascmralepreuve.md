@@ -9,8 +9,6 @@
 <p align= "justify">Les locaux proposés rue de Maubeuge par la SNCF étaient cependant très exigus et il n’y avait pas d’espace extérieur disponible. Aussi, c’est l’adresse du 39 boulevard de la Chapelle qui a été retenue au départ, en 2013. La disposition des locaux convenait le mieux d’un côté pratique pour l’installation de la salle de consommation. Cependant, ce choix a fait l’objet de nombreuses contestations. Effectivement, deux écoles se trouvaient à proximité du 39 boulevard de la Chapelle. Les riverains étaient opposés à ce que la SCMR ouvre si proche d’écoles. Des banderoles de manifestations devant le bâtiment du 37 boulevard de la Chapelle furent affichées comme sur la photo ci-dessus par exemple. Les riverains y dénoncent l’installation de la salle de consommation à proximité de cette école.</p>
 
 <div style="text-align:center"><img src ="http://referentiel.nouvelobs.com/file/6513060-salle-de-shoot-le-conseil-d-etat-dit-non-et-exige-une-loi.jpg" /></div>
-Banderoles de manifestations devant le bâtiment du 37 boulevard de la Chapelle 
-Source : Jacques Demarthon pour l’AFP
 
 <p align= "justify">De nombreuses manifestations de riverains ont donc eu lieu en 2013 pour s’opposer au choix de l’adresse pour la salle de consommation. Des “appels à la vigilance citoyenne” ont ainsi été lancés, pour manifester contre l’ouverture de la salle au 39 boulevard de la Chapelle. Plus qu’à l’implantation d’une salle de shoot, de nombreux individus se sont opposées au choix de cet emplacement. En outre, pour Rémi Féraud, le 39 boulevard de la Chapelle serait finalement trop difficile d’accès pour les toxicomanes. C’est donc finalement les locaux de l'Hôpital Lariboisière qui seront retenus en 2015.</p>  
 
@@ -24,7 +22,8 @@ Source : Jacques Demarthon pour l’AFP
 
 <p align= "justify">En 2010 cependant, un clivage politique va ralentir le processus de l’ouverture de la salle de consommation. En effet, la droite au pouvoir est divisée en deux camps. Roselyne Bachelot alors ministre de la santé défendait cependant ce projet. Dans un communiqué de presse du 10 août 2010, elle se montre favorable à l'ouverture de centres de consommation supervisés de drogue. François Fillon, alors premier ministre, se montre défavorable à l’ouverture de la salle. 
 
-> « ce n’est ni utile, ni souhaitable (...) La priorité de Matignon est de réduire la consommation de drogue, non de l’accompagner, voire de l’organiser. » François Fillon, Premier Ministre en 2010
+> « Ce n’est ni utile, ni souhaitable [...] La priorité de Matignon est de réduire la consommation de drogue, non de l’accompagner, voire de l’organiser. » 
+François Fillon, Premier Ministre en 2010
 
 Xavier Bertrand, alors secrétaire général de l’UMP se prononce également sur le sujet, en rejoignant l’avis exprimé par matignon. Il se dit ainsi “vraiment opposé” à l’ouverture d’une telle structure. Le Parti Socialiste et les verts se montrent cependant favorables, et saluent cette initiative. La situation ne changera pas, et les salles de consommation ne sont pas envisagées à nouveau avant que la gauche soit au pouvoir en 2012.</p>
  
