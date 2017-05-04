@@ -31,8 +31,6 @@
 
 - Salles de consommation à moindre risque : les preuves et la pratique, Eberhard Schatz & Marie Nougier, Rapport réalisé pour le compte du Consortium International sur les Politiques des Drogues, Juin 2012,   [https://reductiondesrisques.be/wp/wp-content/uploads/2013/03/idpc-briefing-paper-drug-consumption-rooms-fr-Eberhard-Schatz-Marie-Nougier.pdf](https://reductiondesrisques.be/wp/wp-content/uploads/2013/03/idpc-briefing-paper-drug-consumption-rooms-fr-Eberhard-Schatz-Marie-Nougier.pdf) [consulté le 24 avril 2017]
 
-- Rapport de l’INSERM concernant les traitements de substitution (2010) [file:///C:/Users/emore/AppData/Local/Temp/reduction_risques_ver_final-2.pdf](file:///C:/Users/emore/AppData/Local/Temp/reduction_risques_ver_final-2.pdf) [consulté le 12 avril]
-
 - Rapport d’une convention avec l'association Élus, Santé Publique et Territoires (ESPT) pour l'attribution d'une subvention afin de mettre en place une démarche de réflexion, d'expertise et de qualification sur les salles de consommation à moindres risques (2009)
 [http://a06.apps.paris.fr/a06/jsp/site/Portal.jsp?page=ods-solr.display_document&id_document=22770&items_per_page=20&sort_name=&sort_order=&terms=&query=&fq=seance_string%3ADECEMBRE%202009](http://a06.apps.paris.fr/a06/jsp/site/Portal.jsp?page=ods-solr.display_document&id_document=22770&items_per_page=20&sort_name=&sort_order=&terms=&query=&fq=seance_string%3ADECEMBRE%202009) [consulté le 6 avril 2017]
 
