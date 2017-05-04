@@ -14,11 +14,11 @@
 
 - KOVACS Stéphane (2016). La salle de shoot ne convainc pas les riverains. Le Figaro, en ligne. URL: [http://www.lemonde.fr/addictions/article/2016/10/11/le-long-periple-du-projet-de-salle-d-injection-a-paris-avant-son-ouverture_5011514_1655173.html](http://www.lemonde.fr/addictions/article/2016/10/11/le-long-periple-du-projet-de-salle-d-injection-a-paris-avant-son-ouverture_5011514_1655173.html) [Consulté le 2 mai 2017] 
 
+- D'ANGELO Robin et BOSSANNE Emmanuel (2016). Sken’ city, village de la drogue à gare du Nord. Street Press, en ligne. URL : [https://www.streetpress.com/sujet/1463153023-drogue-paris-crack-skenan](https://www.streetpress.com/sujet/1463153023-drogue-paris-crack-skenan) [Consulté le 31 janvier 2017]
+
 ## Périodique
 
 - Jauffret-Roustide Marie, « Un regard sociologique sur les drogues : décrire la complexité des usages et rendre compte des contextes sociaux », La revue lacanienne, 3/2009 (n° 5), p. 109-118.
-
-- “Sken’ city, village de la drogue à gare du Nord”, Street Press, 16 mai 2016, par Robin D’Angelo et Emmanuel Bossanne 
 
 - “Contribution de la science au débat sur les salles d’injection”, Libération, 1 juin 2011, p.16, par Françoise Barré Sinoussi, Prix Nobel de médecine , Marie Jauffret-Roustide, Sociologue, Inserm U988 , Laurent Michel, Médecin psychiatre, Inserm U669 , Perrine Roux, Pharmacienne, Inserm U992 ,Patrizia Carrieri, Epidémiologiste Inserm U992 et Piervincenzo Piazza, Neurobiologiste Inserm U862
 
@@ -27,7 +27,7 @@
 - Dossier sur les infections virales liées à l’usage de drogues (2011). Santé publique France , en ligne. URL : [http://invs.santepubliquefrance.fr/Dossiers-thematiques/Populations-et-sante/Usagers-de-drogues/Infections-virales-liees-a-l-usage-de-drogues ](http://invs.santepubliquefrance.fr/Dossiers-thematiques/Populations-et-sante/Usagers-de-drogues/Infections-virales-liees-a-l-usage-de-drogues) [consulté le 22 février 2017]
 
 - Rapport sur la Réduction des risques infectieux chez les usagers de drogue, INSERM, 2010 
-<A HREF="https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjh5cPhqdbTAhUKXRoKHY8aACIQFgg7MAI&url=http%3A%2F%2Fwww.inserm.fr%2Fcontent%2Fdownload%2F12993%2F97898%2Fversion%2F2%2Ffile%2Fsynthese_reduction_risques_vers_final.pdf&usg=AFQjCNE6kVPSfvVrwYNnFHSEucsyK9m5Tw " target="_blank">Rapport de l INSERM</A>  [consulté le 22 février 2017]
+[file:///C:/Users/emore/AppData/Local/Temp/reduction_risques_ver_final-1.pdf](file:///C:/Users/emore/AppData/Local/Temp/reduction_risques_ver_final-1.pdf)   [consulté le 22 février 2017]
 
 - Salles de consommation à moindre risque : les preuves et la pratique, Eberhard Schatz & Marie Nougier, Rapport réalisé pour le compte du Consortium International sur les Politiques des Drogues, Juin 2012,   [https://reductiondesrisques.be/wp/wp-content/uploads/2013/03/idpc-briefing-paper-drug-consumption-rooms-fr-Eberhard-Schatz-Marie-Nougier.pdf](https://reductiondesrisques.be/wp/wp-content/uploads/2013/03/idpc-briefing-paper-drug-consumption-rooms-fr-Eberhard-Schatz-Marie-Nougier.pdf) [consulté le 24 avril 2017]
 
