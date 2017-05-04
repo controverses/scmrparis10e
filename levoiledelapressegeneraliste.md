@@ -19,7 +19,7 @@ Exemple : les riverains ont été cités dans 12 articles au cours de l’année
 <p align= "justify">Nombre d’articles évoquant une entité en particulier en fonction du temps
 Exemple : la gare du Nord a été évoquée dans 17 articles en 2013)</p>
 
-<div style="text-align:center"><img src ="https://github.com/controverses/scmrparis10e/blob/master/Capture%20d’écran%202017-05-03%20à%2016.54.18.png" /></div>
+<div style="text-align:center"><img src ="https://github.com/controverses/scmrparis10e/blob/master/graphique-entites.png" /></div>
 
 <p align= "justify">Un enjeu qui semble particulièrement inquiéter les riverains est la sécurité et la salubrité du quartier qu’ils fréquentent. Là encore, les spécialistes de la question ne se font pas entendre : la préfecture de police de Paris ainsi que les témoignages de policiers se font très rares dans les articles (cf. graphique « entités » ci-dessus). Très peu de données sont révélées à propos de la violence provoquée par la fréquentation de quartiers par les usagers d’une SCMR (que ce soit en France ou ailleurs) alors que les riverains en font souvent une des sources principales de leurs interrogations. Le lien de causalité établi par certaines parties interrogées n’est pas mis à l’épreuve. L’étude de ces articles démontre alors une absence de statistiques dans la presse “généraliste”.</p>
 
