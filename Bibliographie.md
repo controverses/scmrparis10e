@@ -27,7 +27,7 @@
 - Dossier sur les infections virales liées à l’usage de drogues (2011). Santé publique France , en ligne. URL : [http://invs.santepubliquefrance.fr/Dossiers-thematiques/Populations-et-sante/Usagers-de-drogues/Infections-virales-liees-a-l-usage-de-drogues ](http://invs.santepubliquefrance.fr/Dossiers-thematiques/Populations-et-sante/Usagers-de-drogues/Infections-virales-liees-a-l-usage-de-drogues) [consulté le 22 février 2017]
 
 - Rapport sur la Réduction des risques infectieux chez les usagers de drogue, INSERM, 2010 
-[file:///C:/Users/emore/AppData/Local/Temp/reduction_risques_ver_final-1.pdf](file:///C:/Users/emore/AppData/Local/Temp/reduction_risques_ver_final-1.pdf)   [consulté le 22 février 2017]
+<A HREF="https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjh5cPhqdbTAhUKXRoKHY8aACIQFgg7MAI&url=http%3A%2F%2Fwww.inserm.fr%2Fcontent%2Fdownload%2F12993%2F97898%2Fversion%2F2%2Ffile%2Fsynthese_reduction_risques_vers_final.pdf&usg=AFQjCNE6kVPSfvVrwYNnFHSEucsyK9m5Tw " target="_blank">Rapport de l INSERM</A>  [consulté le 22 février 2017]
 
 - Salles de consommation à moindre risque : les preuves et la pratique, Eberhard Schatz & Marie Nougier, Rapport réalisé pour le compte du Consortium International sur les Politiques des Drogues, Juin 2012,   [https://reductiondesrisques.be/wp/wp-content/uploads/2013/03/idpc-briefing-paper-drug-consumption-rooms-fr-Eberhard-Schatz-Marie-Nougier.pdf](https://reductiondesrisques.be/wp/wp-content/uploads/2013/03/idpc-briefing-paper-drug-consumption-rooms-fr-Eberhard-Schatz-Marie-Nougier.pdf) [consulté le 24 avril 2017]
 
