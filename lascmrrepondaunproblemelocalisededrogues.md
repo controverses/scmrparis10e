@@ -52,14 +52,15 @@ Nathalie Kosciusko-Morizet, candidate UMP pour les élections municipales de Par
 
 <div style="padding:4px; border:4px solid #e0e0e0;">
 <div style="padding:3px; background-color:#e0e0e0;">
-
-Collège habitants :
+Le comité de voisinage est divisé en cinq collèges : 
+Collège habitants : 
 - Association Action Barbes (2 personnes)
 - Association Vivre Gare du Nord et de l’Est (2 personnes)
 - Collectif “Non à la salle de shoot” (2 personnes)
 - Conseil de Quartier Lariboisière - St Vincent de Paul (2 personnes)
 - Crèche Bossuet, maternelle Belzunce, élémentaire Belzunce (1 représentant des parents par établissement)
 - Acteur local (1 personne)
+
 Collège institutions et entreprises locales :
 - Commissariat de Police du 10e (1 personne)
 - Préfecture de Police (1 personne)
@@ -69,6 +70,7 @@ Collège institutions et entreprises locales :
 - RATP (1 personne)
 - SNCF (1 personne)
 - Services techniques de la Ville de Paris : DPE, DEVE, DPSP (3 personnes)
+
 Collège acteurs du projet SCMR, associations locales travaillant sur la toxicomanie et la précarité
 - Gaïa (3 personnes) 
 - Arc 75 (1 personne)
@@ -77,6 +79,7 @@ Collège acteurs du projet SCMR, associations locales travaillant sur la toxicom
 - Coordination Toxicomanies (1 personne)
 - Ego Aurore (1 personne)
 - SAFE (1 personne)
+
 Collège Elus
 - Maire du 10e
 - Elu santé du 10e
@@ -86,6 +89,7 @@ Collège Elus
 - Représentant de la Maire de Paris
 - Représentant de l’Adjoint à la santé de la Mairie de Paris
 - Représentant de l’Adjoint à la sécurité de la Mairie de Paris
+
 Collège institutions Santé et Toxicomanie
 - Mission Métropolitaine de Prévention des Conduites à Risques (2 personnes)
 - Inserm (1 personne)
