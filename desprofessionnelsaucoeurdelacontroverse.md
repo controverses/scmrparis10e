@@ -16,7 +16,7 @@
 
 <div style="padding:4px; border:4px solid #e0e0e0;">
 <div style="padding:3px; background-color:#e0e0e0;">
-<p align="justify"> <strong>Critères d’efficacité retenus:</strong>  <br>
+<p align="justify"> <strong>Critères d’efficacité retenus :</strong>  <br>
 - étudier l’évolution des pratiques à disques de transmission du VHC et VIH, <br>
 - étudier l’évolution de l’accès aux soins et de la prise en charge médicale, notamment en ce qui concerne les addictions et les dépistages, <br>
 - étudier l’évolution de la santé mentales des usagers, <br>
@@ -25,22 +25,32 @@
 </div>
 </div>
  
-<p align= "justify">Méthode :</p>
-- 680 participants (usagers de drogue) 
-- recrutés dans quatre villes : Bordeaux, Marseille, Paris et Strasbourg. 
-- recrutés sur 12 mois et seront suivis pendant 12 autres mois. 
-- certains usagers ont été recrutés dans une ville où une salle est présente
-- certains ont été recrutés dans une ville où aucune salle n’a vu le jour (« ville témoin »).
-- parmi les individus recrutés dans les villes où il y a une salle, certains auront été exposés à la SCMR, d’autres pas.
-- questionnaires aux troisième, sixième et douzième mois du suivi.
+<div style="padding:4px; border:4px solid #e0e0e0;">
+<div style="padding:3px; background-color:#e0e0e0;">
+<p align="justify"> <strong>Méthode :</strong>  <br>
+- 680 participants (usagers de drogue) <br>
+- recrutés dans quatre villes : Bordeaux, Marseille, Paris et Strasbourg. <br>
+- recrutés sur 12 mois et seront suivis pendant 12 autres mois. <br>
+- certains usagers ont été recrutés dans une ville où une salle est présente<br>
+- certains ont été recrutés dans une ville où aucune salle n’a vu le jour (« ville témoin »).<br>
+- parmi les individus recrutés dans les villes où il y a une salle, certains auront été exposés à la SCMR, d’autres pas.<br>
+- questionnaires aux troisième, sixième et douzième mois du suivi.<br>
+</p>
+</div>
+</div>
 
-<p align= "justify">Les questionnaires :</p> 
-- divisés en deux parties 
-	une partie consacrée à la fréquentation des salles de consommation à moindre risque 
-	 une partie consacrée aux critères d’efficacité cités précédemment. 
-- sont inspirés d’évaluations précédemment menées à l’étranger et considérées comme fiables par la communauté des sociologues
-- seront complétés par un enquêteur formé et indépendant (i.e extérieur aux structures entourant les usagers) lors d’entretiens d’une durée de trente minutes. I
- 
+<div style="padding:4px; border:4px solid #e0e0e0;">
+<div style="padding:3px; background-color:#e0e0e0;">
+<p align="justify"> <strong>Les questionnaires :</strong>  <br>
+- divisés en deux parties <br>
+	 une partie consacrée à la fréquentation des salles de consommation à moindre risque <br>
+	 une partie consacrée aux critères d’efficacité cités précédemment. <br>
+- sont inspirés d’évaluations précédemment menées à l’étranger et considérées comme fiables par la communauté des sociologues<br>
+- seront complétés par un enquêteur formé et indépendant (c'est-à-dire extérieur aux structures entourant les usagers) lors d’entretiens d’une durée de trente minutes. <br>
+</p>
+</div>
+</div>
+
 <p align= "justify">À Paris plus précisément, l’évaluation Cosinus est réalisée par une équipe menée par Marie Jauffret Roustide, sociologue spécialisée en gestion du risque. Elle suit 250 personnes.</p> 
  
 ### Une évaluation de l'acceptabilité sociale des SCMR, étudier leur impact sur la santé publique
