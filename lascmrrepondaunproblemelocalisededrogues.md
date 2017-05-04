@@ -98,7 +98,7 @@ Collège institutions Santé et Toxicomanie
 - Mission Interministérielle de Lutte contre les Drogues Et les Conduites Addictives (1 personne)
 - Agence Régionale de Santé (1 personne)
 - Direction Départementale de la Cohésion Sociale de Paris - Mission Prévention (1 personne)
-</i> 
+
 </div> 
 </div>
 <br>
