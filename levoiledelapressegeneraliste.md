@@ -6,7 +6,7 @@
 Exemple : en 2013, Rémi Féraud a été évoqué dans 18 articles, c’est celui qui a été le plus évoqué cette année-là dans la presse* </p>
 
 <div style="text-align:center"><img src ="https://github.com/controverses/scmrparis10e/blob/master/graphique-qui.png" /></div>
-<div style="text-align:center"><img src ="https://github.com/controverses/scmrparis10e/blob/master/graphique-qui.png" /></div>
+<div style="text-align:center"><img src ="https://github.com/controverses/scmrparis10e/blob/master/legende-qui.png" /></div>
 
 <p align= "justify">Nombre d’articles qui citent des personnalités en fonction du temps 
 Exemple : les riverains ont été cités dans 12 articles au cours de l’année 2013</p>
