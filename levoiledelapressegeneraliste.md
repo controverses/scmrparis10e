@@ -2,15 +2,13 @@
 
 ## Un constat : les usagers ou futurs usagers de la salle ne sont pas entendus dans les journaux
 
-*Nombre d’articles qui évoquent certaines personnalités en fonction du temps
-Exemple : en 2013, Rémi Féraud a été évoqué dans 18 articles, c’est celui qui a été le plus évoqué cette année-là dans la presse*
+*Nombre d’articles qui évoquent certaines personnalités en fonction du temps. Exemple : en 2013, Rémi Féraud a été évoqué dans 18 articles, c’est celui qui a été le plus évoqué cette année-là dans la presse.*
 
 <div style="text-align:center"><img src ="https://github.com/controverses/scmrparis10e/blob/master/graphique-qui.png" /></div>
 
 <div style="text-align:center"><img src ="https://github.com/controverses/scmrparis10e/blob/master/legende-qui.png" /></div>
 
-*Nombre d’articles qui citent des personnalités en fonction du temps 
-Exemple : les riverains ont été cités dans 12 articles au cours de l’année 2013*
+*Nombre d’articles qui citent des personnalités en fonction du temps. Exemple : les riverains ont été cités dans 12 articles au cours de l’année 2013.*
 
 <div style="text-align:center"><img src ="https://github.com/controverses/scmrparis10e/blob/master/Capture%20d’écran%202017-05-03%20à%2016.54.18.png" /></div>
 
@@ -20,8 +18,7 @@ Exemple : les riverains ont été cités dans 12 articles au cours de l’année
 
 ## Un second constat : la parole est donnée en grande partie aux riverains et aux porteurs associatifs et gouvernementaux du projet
 
-*Nombre d’articles évoquant une entité en particulier en fonction du temps
-Exemple : la gare du Nord a été évoquée dans 17 articles en 2013)*
+*Nombre d’articles évoquant une entité en particulier en fonction du temps. Exemple : la gare du Nord a été évoquée dans 17 articles en 2013.*
 
 <div style="text-align:center"><img src ="https://github.com/controverses/scmrparis10e/blob/master/graphique-entites.png" /></div>
 
@@ -31,8 +28,7 @@ Exemple : la gare du Nord a été évoquée dans 17 articles en 2013)*
 
 ## Un troisième constat : la parole n’est pas donnée aux professionnels de santé et les rapports sanitaires ne sont quasiment jamais évoqués dans les articles
 
-*Nombre d’articles évoquant un sujet en particulier en fonction du temps ou "quoi" 
-(Exemple : le déplacement de la SCMR a été évoqué dans huit articles en 2015)*
+*Nombre d’articles évoquant un sujet en particulier en fonction du temps ou "quoi". Exemple : le déplacement de la SCMR a été évoqué dans huit articles en 2015.*
 
 <div style="text-align:center"><img src ="https://github.com/controverses/scmrparis10e/blob/master/graphique-quoi.png" /></div>
 
