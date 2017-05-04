@@ -12,11 +12,19 @@
  
 <p align= "justify">Le premier programme est une évaluation socio-épidémiologique qui sera mené par trois équipes INSERM et une équipe CNRS. L’étude Cosinus a démarré en juin 2016. Portée par l’Inserm, elle doit évaluer l’impact des SCMR sur les usagers de drogue en comparant la situation des usagers qui s’y rendent à celle de ceux qui ne s’y rendent pas. Un autre objectif est d’identifier les conditions optimales d’insertion des SCMR dans un processus de soin médical/social.</p> 
  
-<p align= "justify">Pour évaluer l’impact de la SCMR sur les usagers de drogue, une série de critères d’efficacité ont été mis en place :</p> 
-- étudier l’évolution des pratiques à disques de transmission du VHC et VIH,
-- étudier l’évolution de l’accès aux soins et de la prise en charge médicale, notamment en ce qui concerne les addictions et les dépistages,
-- étudier l’évolution de la santé mentales des usagers,
-- étudier l’évolution de l’insertion socio-professionnelle des usagers, en particulier leur accès à un logement, les actes de délinquance.
+<p align= "justify">Pour évaluer l’impact de la SCMR sur les usagers de drogue, l'étude suit un protocole spécifique bien établi.</p>
+
+<div style="padding:4px; border:4px solid #e0e0e0;">
+<div style="padding:3px; background-color:#e0e0e0;">
+<strong>Le comité de voisinage est divisé en cinq collèges</strong><br>  
+<p align="justify"> <strong>Critères d’efficacité retenus:</strong>  <br>
+- étudier l’évolution des pratiques à disques de transmission du VHC et VIH, <br>
+- étudier l’évolution de l’accès aux soins et de la prise en charge médicale, notamment en ce qui concerne les addictions et les dépistages, <br>
+- étudier l’évolution de la santé mentales des usagers, <br>
+- étudier l’évolution de l’insertion socio-professionnelle des usagers, en particulier leur accès à un logement, les actes de délinquance. <br>
+</p>
+</div>
+</div>
  
 <p align= "justify">Méthode :</p>
 - 680 participants (usagers de drogue) 
