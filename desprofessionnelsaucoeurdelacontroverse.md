@@ -1,4 +1,4 @@
-<p align= "justify">Des professionnels de santé et des sociologues se trouvent au coeur de la controverse pour évaluer le projet. Ils sont toutefois largement invisibilisés dans les <a href="https://controverses.github.io/scmrparis10e/levoiledelapressegeneraliste" target="_blank">médias traditionnels</a>.</p> 
+<p align= "justify">Des professionnels de santé et des sociologues se trouvent au coeur de la controverse pour évaluer le projet. Ils sont toutefois largement invisibilisés dans les médias traditionnels.</p> 
 
 ## La SCMR : une expérimentation
 
@@ -77,7 +77,7 @@ Toutes les enquêtes menées auprès des usagers des CIS (ou SCMR) montrent qu�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yi7prk6vMRw" frameborder="0" allowfullscreen></iframe>
  
-<p align= "justify">Toutefois, on notera que les voix des sociologues sont peu entendues dans les médias traditionnels (elles sont par exemple absentes des articles de Zotero) et demeurent uniquement cités dans des médias moins accessibles comme France Culture.</p>
+<p align= "justify">Toutefois, on notera que les voix des sociologues sont peu entendues dans les <a href="https://controverses.github.io/scmrparis10e/levoiledelapressegeneraliste" target="_blank">médias traditionnels</a> et demeurent uniquement cités dans des médias moins accessibles comme France Culture.</p>
 
 ## Des divergences au sein de la communauté scientifique
 
