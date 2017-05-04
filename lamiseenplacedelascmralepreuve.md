@@ -4,7 +4,7 @@
 
 <p align= "justify">À l’origine, la salle de consommation devait se situer près de la gare du Nord, mais un camp de réfugiés a rendu la localisation impossible. La localisation de la salle a donc ensuite été prévue à proximité de l’hôpital Lariboisière. Dans un article de l’association Action Barbès datant du 23 juillet 2013, Rémi Féraud, maire du Xe arrondissement, motive les différents choix d’implantations pour la salle. Ainsi, plusieurs solutions se présentaient pour l’emplacement de la salle de consommation. Dans un premier temps, l’hôpital Lariboisière où un emplacement existait déjà, et donc où un permis de construire n’était pas nécessaire. Aussi, la SNCF a proposé deux emplacements, des locaux rue de Maubeuge, ou le 39 boulevard de la Chapelle.</p>
 
-Image loccalisation à insérer
+<div style="text-align:center"><img src ="https://github.com/controverses/scmrparis10e/blob/master/localisation-epreuve.png?raw=true" /></div>
 
 <p align= "justify">Les locaux proposés rue de Maubeuge par la SNCF étaient cependant très exigus et il n’y avait pas d’espace extérieur disponible. Aussi, c’est l’adresse du 39 boulevard de la Chapelle qui a été retenue au départ, en 2013. La disposition des locaux convenait le mieux d’un côté pratique pour l’installation de la salle de consommation. Cependant, ce choix a fait l’objet de nombreuses contestations. Effectivement, deux écoles se trouvaient à proximité du 39 boulevard de la Chapelle. Les riverains étaient opposés à ce que la SCMR ouvre si proche d’écoles. Des banderoles de manifestations devant le bâtiment du 37 boulevard de la Chapelle furent affichées comme sur la photo ci-dessus par exemple. Les riverains y dénoncent l’installation de la salle de consommation à proximité de cette école.</p>
 
