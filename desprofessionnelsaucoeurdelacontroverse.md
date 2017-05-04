@@ -1,4 +1,4 @@
-<p align= "justify">Des professionnels de santé et des sociologues se trouvent au coeur de la controverse pour évaluer le projet. Ils sont toutefois largement invisibilisés dans les médias traditionnels.</p> 
+<p align= "justify">Des professionnels de santé et des sociologues se trouvent au coeur de la controverse pour évaluer le projet. Ils sont toutefois largement invisibilisés dans les <a href="https://controverses.github.io/scmrparis10e/levoiledelapressegeneraliste" target="_blank">médias traditionnels</a>.</p> 
 
 ## La SCMR : une expérimentation
 
