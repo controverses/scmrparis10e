@@ -54,50 +54,50 @@ Nathalie Kosciusko-Morizet, candidate UMP pour les élections municipales de Par
 <div style="padding:3px; background-color:#e0e0e0;">
 Le comité de voisinage est divisé en cinq collèges : 
 
-Collège habitants : 
-- Association Action Barbes (2 personnes)
-- Association Vivre Gare du Nord et de l’Est (2 personnes)
-- Collectif “Non à la salle de shoot” (2 personnes)
-- Conseil de Quartier Lariboisière - St Vincent de Paul (2 personnes)
-- Crèche Bossuet, maternelle Belzunce, élémentaire Belzunce (1 représentant des parents par établissement)
-- Acteur local (1 personne)
+<i>Collège habitants : </i>
+<i>- Association Action Barbes (2 personnes)</i>
+<i>- Association Vivre Gare du Nord et de l’Est (2 personnes)</i>
+<i>- Collectif “Non à la salle de shoot” (2 personnes)</i>
+<i>- Conseil de Quartier Lariboisière - St Vincent de Paul (2 personnes)</i>
+<i>- Crèche Bossuet, maternelle Belzunce, élémentaire Belzunce (1 représentant des parents par établissement)</i>
+<i>- Acteur local (1 personne)</i>
 
-Collège institutions et entreprises locales :
-- Commissariat de Police du 10e (1 personne)
-- Préfecture de Police (1 personne)
-- Justice (1 personne)
-- AP-HP Hôpital Lariboisière (1 personne)
-- Effia (1 personne)
-- RATP (1 personne)
-- SNCF (1 personne)
-- Services techniques de la Ville de Paris : DPE, DEVE, DPSP (3 personnes)
+<i>Collège institutions et entreprises locales :</i>
+<i>- Commissariat de Police du 10e (1 personne)</i>
+<i>- Préfecture de Police (1 personne)</i>
+<i>- Justice (1 personne)</i>
+<i>- AP-HP Hôpital Lariboisière (1 personne)</i>
+<i>- Effia (1 personne)</i>
+<i>- RATP (1 personne)</i>
+<i>- SNCF (1 personne)</i>
+<i>- Services techniques de la Ville de Paris : DPE, DEVE, DPSP (3 personnes)</i>
 
-Collège acteurs du projet SCMR, associations locales travaillant sur la toxicomanie et la précarité
-- Gaïa (3 personnes) 
-- Arc 75 (1 personne)
-- Aux Captifs, la Libération (1 personne)
-- B10 Beaurepaire (1 personne)
-- Coordination Toxicomanies (1 personne)
-- Ego Aurore (1 personne)
-- SAFE (1 personne)
+<i>Collège acteurs du projet SCMR, associations locales travaillant sur la toxicomanie et la précarité</i>
+<i>- Gaïa (3 personnes)</i> 
+<i>- Arc 75 (1 personne)</i>
+<i>- Aux Captifs, la Libération (1 personne)</i>
+<i>- B10 Beaurepaire (1 personne)</i>
+<i>- Coordination Toxicomanies (1 personne)</i>
+<i>- Ego Aurore (1 personne)</i>
+<i>- SAFE (1 personne)</i>
 
-Collège Elus
-- Maire du 10e
-- Elu santé du 10e
-- Elu prévention-sécurité du 10e
-- Groupes politiques du conseil du 10e (1 personne par groupe)
-- Elus délégués à la toxicomanie représentants les 18e et 19e (1 personne par arrondissement)
-- Représentant de la Maire de Paris
-- Représentant de l’Adjoint à la santé de la Mairie de Paris
-- Représentant de l’Adjoint à la sécurité de la Mairie de Paris
+<i>Collège Elus</i>
+<i>- Maire du 10e</i>
+<i>- Elu santé du 10e</i>
+<i>- Elu prévention-sécurité du 10e</i>
+<i>- Groupes politiques du conseil du 10e (1 personne par groupe)</i>
+<i>- Elus délégués à la toxicomanie représentants les 18e et 19e (1 personne par arrondissement)</i>
+<i>- Représentant de la Maire de Paris</i>
+<i>- Représentant de l’Adjoint à la santé de la Mairie de Paris</i>
+<i>- Représentant de l’Adjoint à la sécurité de la Mairie de Paris</i>
 
-Collège institutions Santé et Toxicomanie
-- Mission Métropolitaine de Prévention des Conduites à Risques (2 personnes)
-- Inserm (1 personne)
-- AP-HP Espace Murger (1 personne)
-- Mission Interministérielle de Lutte contre les Drogues Et les Conduites Addictives (1 personne)
-- Agence Régionale de Santé (1 personne)
-- Direction Départementale de la Cohésion Sociale de Paris - Mission Prévention (1 personne)
+<i>Collège institutions Santé et Toxicomanie</i>
+<i>- Mission Métropolitaine de Prévention des Conduites à Risques (2 personnes)</i>
+<i>- Inserm (1 personne)</i>
+<i>- AP-HP Espace Murger (1 personne)</i>
+<i>- Mission Interministérielle de Lutte contre les Drogues Et les Conduites Addictives (1 personne)</i>
+<i>- Agence Régionale de Santé (1 personne)</i>
+<i>- Direction Départementale de la Cohésion Sociale de Paris - Mission Prévention (1 personne)</i>
 
 </div> 
 </div>
