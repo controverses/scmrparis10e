@@ -75,8 +75,8 @@ Toutes les enquêtes menées auprès des usagers des CIS (ou SCMR) montrent qu�
  
 <p align= "justify">Marie Jauffret Roustide propose donc un « changement de paradigme » qui s’incarne en la réduction des risques et qui selon a elle a déjà débuté au début des années 1990. Le toxicomane malade délinquant que nous avons décrit doit devenir un « usager de drogue », désigné objectivement. La réduction des risques est inscrite dans la loi de santé publique de 2004. Elle propose de réduire l’ensemble des dommages sociaux et sanitaires liés à l’usage de la drogue en les hiérarchisant.</p>
 
->« Si vous le pouvez, ne vous droguez pas. Sinon, essayez de sniffer au lieu d’injecter. Sinon, utilisez une seringue propre. Sinon, réutilisez la vôtre. Au pire, si vous partagez une seringue, nettoyez-la à l’eau de javel ». 
-Marie Jauffret-Roustide, sociologue chargée de recherche à l'INSERM
+><p align= "justify">« Si vous le pouvez, ne vous droguez pas. Sinon, essayez de sniffer au lieu d’injecter. Sinon, utilisez une seringue propre. Sinon, réutilisez la vôtre. Au pire, si vous partagez une seringue, nettoyez-la à l’eau de javel ». 
+Marie Jauffret-Roustide, sociologue chargée de recherche à l'INSERM</p>
 
 <p align= "justify">Ainsi, il ne s’agit plus d’éradiquer les drogues mais davantage d’apprendre à vivre avec comme l’avait proposé Ehrenberg. Tout cela constitue une rupture dans la mesure ou auparavant, la duo sevrage-psychothérapie était privilégié.</p>
 
