@@ -16,7 +16,6 @@
 
 <div style="padding:4px; border:4px solid #e0e0e0;">
 <div style="padding:3px; background-color:#e0e0e0;">
-<strong>Le comité de voisinage est divisé en cinq collèges</strong><br>  
 <p align="justify"> <strong>Critères d’efficacité retenus:</strong>  <br>
 - étudier l’évolution des pratiques à disques de transmission du VHC et VIH, <br>
 - étudier l’évolution de l’accès aux soins et de la prise en charge médicale, notamment en ce qui concerne les addictions et les dépistages, <br>
