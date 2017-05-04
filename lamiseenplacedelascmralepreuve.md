@@ -22,7 +22,7 @@
 
 <p align= "justify">En 2010 cependant, un clivage politique va ralentir le processus de l’ouverture de la salle de consommation. En effet, la droite au pouvoir est divisée en deux camps. Roselyne Bachelot alors ministre de la santé défendait cependant ce projet. Dans un communiqué de presse du 10 août 2010, elle se montre favorable à l'ouverture de centres de consommation supervisés de drogue. François Fillon, alors premier ministre, se montre défavorable à l’ouverture de la salle. 
 
-> « Ce n’est ni utile, ni souhaitable [...] La priorité de Matignon est de réduire la consommation de drogue, non de l’accompagner, voire de l’organiser. » 
+< « Ce n’est ni utile, ni souhaitable [...] La priorité de Matignon est de réduire la consommation de drogue, non de l’accompagner, voire de l’organiser. » 
 François Fillon, Premier Ministre en 2010
 
 Xavier Bertrand, alors secrétaire général de l’UMP se prononce également sur le sujet, en rejoignant l’avis exprimé par matignon. Il se dit ainsi “vraiment opposé” à l’ouverture d’une telle structure. Le Parti Socialiste et les verts se montrent cependant favorables, et saluent cette initiative. La situation ne changera pas, et les salles de consommation ne sont pas envisagées à nouveau avant que la gauche soit au pouvoir en 2012.</p>
