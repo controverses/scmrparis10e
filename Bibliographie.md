@@ -2,7 +2,7 @@
 
 - Dossier Europresse exporté et analysé à l'aide du logiciel Zotero: scmrparis10e/Documents europresses sur la salle de shoot - titre .pdf
 
-(<A HREF="scmrparis10e/Documents europresses sur la salle de shoot - titre .pdf" target="_blank">Zotero</A>)
+(<A HREF="scmrparis10e/documentseuropressessurlasalledeshoottitre.pdf" target="_blank">Zotero</A>)
 
 - Auteur non spécifié (2016). Le long périple du projet de salle d'injection à Paris avant son ouverture. Le Monde,  en ligne. URL : [http://www.lemonde.fr/addictions/article/2016/10/11/le-long-periple-du-projet-de-salle-d-injection-a-paris-avant-son-ouverture_5011514_1655173.html](http://www.lemonde.fr/addictions/article/2016/10/11/le-long-periple-du-projet-de-salle-d-injection-a-paris-avant-son-ouverture_5011514_1655173.html) [Consulté le 25 février 2017]
 
